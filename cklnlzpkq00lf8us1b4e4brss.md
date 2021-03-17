@@ -4,7 +4,7 @@
 
 <hr/>
 
-Nothing beats practice, especially when you learn to code. Building one project teaches you more than watching multiple tutorials.
+<mark>Nothing beats practice, especially when you learn to code. Building one project teaches you more than watching multiple tutorials.</mark>
 
 As a result, in this article, you can see a handful of programming projects suited to beginners.
 
