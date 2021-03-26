@@ -1,8 +1,5 @@
 ## How To Setup A Budget On AWS
 
-%%[mailerlite]
-<hr />
-
 Unfortunately, it is very easy to over-spend money in AWS, and you do not want that. Your costs can quickly spiral to thousands of dollars. 
 
 Therefore, the first step I advise people to do after creating an AWS account is to set up a budget. By setting up a budget, you make sure you are not over-spending money. 
