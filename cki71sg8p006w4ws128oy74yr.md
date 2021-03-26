@@ -1,9 +1,5 @@
 ## AWS CloudWatch vs AWS CloudTrail - What Is The Difference?
 
-%%[mailerlite]
-
-<hr/>
-
 It can be very easy to confuse the two services; especially when you are under pressure in the certification exams.
 
 The aim of the article is therefore to eliminate the confusion between the two services. After reading the article, it should be clear what each service does and what is the difference between them. 
