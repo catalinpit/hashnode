@@ -1,8 +1,5 @@
 ## AWS Virtual Private Cloud (VPC) - Let's Learn About It
 
-%%[mailerlite]
-<hr />
-
 AWS Virtual Private Cloud (VPC) is another essential AWS service. Also, it is something you need to know if you want to pursue the certifications. 
 
 When we build a cloud infrastructure, we want control over the security, of the traffic between our services and much more. In simpler words, AWS VPC provides us with more control over our network. 
