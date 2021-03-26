@@ -1,8 +1,5 @@
 ## Amazon Relational Database Service - The Basics Of AWS RDS
 
-%%[mailerlite]
-<hr/>
-
 Amazon Relational Database Service allows us to create, run, and manage relational databases in the cloud. With RDS, you can choose from six well-known relational database engines:
 1. Aurora (AWS's relational database)
 2. MySQL
