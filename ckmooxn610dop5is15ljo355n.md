@@ -1,9 +1,5 @@
 ## 5 Tips You Want To See If You Work Remotely
 
-%%[revue]
-
-<hr/>
-
 The pandemic changed the world of work dramatically. More and more people in software development (and other areas too) work remotely. However, remote work comes with its ups and downs. For some people, it's a curse. For others, it's a blessing.
 
 Thus, in this article, I will show you how you can make the most of remote working and how to do it like a pro! Without further ado, let's jump in!
