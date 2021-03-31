@@ -1,4 +1,4 @@
-## Top Resources To Learn JavaScript As A Beginner
+## 5 Best Resources To Learn JavaScript As A Beginner
 
 There are countless resources to learn JavaScript, and that is both a bad and a good thing. The good thing is that we have many options to choose from. However, the bad thing is that we do not know which resource is the best.
 
