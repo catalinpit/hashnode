@@ -1,6 +1,6 @@
 ## Getting Started With Open-Source: How To Contribute
 
-<div class="notme">[![cover (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617198357271/uoNdlXnwM.png)](https://codelounge.dev)</div>
+<div style="border: none;">[![cover (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617198357271/uoNdlXnwM.png)](https://codelounge.dev)</div>
 
 ---
 
