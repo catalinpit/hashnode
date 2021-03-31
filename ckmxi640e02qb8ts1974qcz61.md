@@ -1,7 +1,12 @@
 ## Getting Started With Open-Source: How To Contribute
 
-
 [![cover (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617198357271/uoNdlXnwM.png)](https://codelounge.dev)
+
+---
+
+Video version
+
+%[https://www.youtube.com/watch?v=8e1Mnkdgi4Y&list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&index=29]
 
 ---
 
