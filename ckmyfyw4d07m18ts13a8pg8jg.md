@@ -113,10 +113,10 @@ On Codecademy, you can choose between three areas:
 
 Their free plan provides you with enough lesson. However, if you want access to everything, you can upgrade to the paid plan. **The best thing about Codecademy is that they have a mobile app so you can practice coding on the go!**
 
-# 9. [Udemy](https://www.udemy.com/courses/development/?p=3&price=price-free&sort=popularity)
-Udemy has exactly 2,403 FREE courses on software development. If you do not want to spend money on paid courses, these free courses are worth checking.
+# 9. [Edabit](https://edabit.com)
+Edabit describes themselves as the Duolingo for learning how to code. They added gamification to make the process of learning more enjoyable. By solving challenges, you gain XP and unlock achievements.
 
-The courses cover topics such as programming fundamentals, Java, PHP, WordPress, JavaScript, HTML, web design and more. I suggest checking it out because they have lots of free good software development courses.
+You can learn programming languages such as JavaScript, Python, Java, Ruby and more. They also have two beginner tutorials that teach you coding with JavaScript or Python, depending on what you want to learn. Once you learn the basics, you can go to the **Challenges** and practice what you learnt! Edabit is a great resource.
 
 # 10. [EDX](https://www.edx.org/learn/computer-programming)
 EDX is one of the best resources because you can learn programming from real college courses created by the world's leading universities, such as Harvard and MIT. And that's for free!
