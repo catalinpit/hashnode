@@ -204,7 +204,7 @@ Challenge your knowledge with CoderByte.
 # 19. [Codewars](https://www.codewars.com)
 Similar to CoderByte, Codewars allows you to practice programming concepts through programming exercises.
 
-There are a plethora of coding exercises to choose from. Moreover, you can choose between a multitude of programming languages to solve the problems. Codewars provides a fun, valuable and efficient way to practice your knowledge or learn new concepts1
+There are a plethora of coding exercises to choose from. Moreover, you can choose between a multitude of programming languages to solve the problems. Codewars provides a fun, valuable and efficient way to practice your knowledge or learn new concepts!
 
 # 20. [Bento](https://bento.io/)
 Bento is a platform where you can choose between 100+ web development topics. The best part of it? They are free!
