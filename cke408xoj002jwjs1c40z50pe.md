@@ -80,8 +80,6 @@ Therefore, let us see the websites you can pitch to write articles. The most pop
     * Choose for a list of possible topics
 
 # Sources
-Be aware; I did not come with this list of publications. I put together (most of) the publications from [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms), and [Who Pays Technical Writers](https://whopaystechnicalwriters.com/) together. **Also, in the article you can see some of the most popular publications. For a more comprehensive list, with more publications, visit the above links**.
-
-Therefore, I hope it helps you to create an additional income. Also, keep an eye on these two sources in case they add more publications. 
+Sharing your knowledge and getting paid for it can be a great source of income. Thus, you can start earning an additional income by applying to write for the above publications/organizations.
 
 > If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
