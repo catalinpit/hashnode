@@ -1,4 +1,4 @@
-## JavaScript ES2021 - You Need To See These ES12 Features
+## JavaScript ES2021 - You Need To See These ECMAScript 2021 Features
 
 It's important to start the article by mentioning that ES2021 or ES12 is in stage 4 of the process. That means it's not released yet. The plan is to release ES12 in June 2021. Despite that, we can have a look at the features it's going to bring.
 
