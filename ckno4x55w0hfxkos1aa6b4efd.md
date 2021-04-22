@@ -572,8 +572,6 @@ Thus, in this example, you can see the simplest way of using a prop.
 
 By now, you should be able to build simple Vue JS applications. All the code from the tutorial is available in the [vue3-intro repository](https://github.com/catalinpit/vue3-intro).
 
-If you want to give Vue a go without installing it, check [how to use Vue without installing it](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it).
-
-> You can use Vue without installing it on your machine - [Vue JS CDN Link - How To Use Vue Without Installing It](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it).
+You can use Vue without installing it on your machine - [Vue JS CDN Link - How To Use Vue Without Installing It](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it).
 
 > Article published originally on [Asayer](https://blog.asayer.io).
