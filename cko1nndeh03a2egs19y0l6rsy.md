@@ -52,7 +52,7 @@ At this point, you should be in the `course-management` folder. Let's initialise
 npm init -y
 ```
 
-The `-y' flag generates the "package.json" automatically without you having to answer the usual questions about the project name, description and so on. If you open "package.json", you can see that all fields are autocompleted.
+The `-y` flag generates the "package.json" automatically without you having to answer the usual questions about the project name, description and so on. If you open "package.json", you can see that all fields are autocompleted.
 
 ### Install the required packages
 The next step is to install the packages needed to build the application. You can install multiple packages in one line. Run the command below in your terminal:
