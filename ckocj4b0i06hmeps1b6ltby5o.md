@@ -39,7 +39,7 @@ Thanks to the `v-bind` directive, you can create a reactive bond between the att
 
 In a more sophisticated way, this directive allows you to bind an attribute dynamically to an expression. In simple terms, it allows you to use dynamic values.
 
-However, it can become tedious to add the `v-bind` all the time. As a result, you can add the semicolon symbol (`:`) in front of the attribute. Like in the code snippet below. The semicolon is the shorthand for "v-bind".
+However, it can become tedious to add the `v-bind` all the time. As a result, you can add the colon symbol (`:`) in front of the attribute. Like in the code snippet below. The colon is the shorthand for "v-bind".
 
 ```
 <img :src="imgURL" :alt="imgDescription" width="500" height="350">
