@@ -707,7 +707,25 @@ Figure 11
 
 Thus, this is how you can update your existing job applications programmatically.
 
-> Check [this gist](https://gist.github.com/catalinpit/5f419e72a6b56bf0bd51e1f1b700f1c0) to see the complete `routes.js` file.
+## Export the controllers
+
+Before you can use the controllers, you need to export them. The reason why you need to export them is that you use them in the `routes.js` file.
+
+Thus, add the end of the file called `controllers.js`, add the following code:
+
+```js
+module.exports = {
+    getAllApplications,
+    getApplication,
+    addApplication,
+    updateApplication,
+    filterApplications
+};
+```
+
+Now you can run the application and play with it!
+
+> Check [this gist](https://gist.github.com/catalinpit/5f419e72a6b56bf0bd51e1f1b700f1c0) to see the complete `controllers.js` file.
 
 ---
 
