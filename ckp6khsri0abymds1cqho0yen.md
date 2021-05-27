@@ -103,6 +103,7 @@ NOTION_TOKEN=<your_token>
 **Note**: Replace `<your_token>` with the token you copied earlier.
 
 Before going further, you also need to create the folder structure for the application. You need to create the following folders:
+* **app.js** - the home for your server configuration
 * **src** - it hosts all the other folders.
 * **routes** - the home folder for your routes.
 * **notion** - the Notion client resides here.
@@ -111,6 +112,7 @@ Before going further, you also need to create the folder structure for the appli
 You can create all the folders and files from the command line as follows:
 
 ```
+touch app.js
 mkdir src
 mkdir src/routes src/notion src/controllers
 touch src/routes/routes.js
