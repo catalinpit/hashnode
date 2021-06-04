@@ -5,14 +5,14 @@ Notion is a productivity software that allows you to create systems for knowledg
 They recently released their API to the public. You can use the API to integrate your Notion data to any application you want.
 
 Thus, this article shows you to:
-* build an Node.js API with Notion
+* build a Node.js API with Notion
 * use FastifyJS to create the API
 
 Without further ado, let's start configuring your Notion workspace.
 
 ---
 
-# Create integrations on Notion
+# Create integrations in Notion
 
 Go to your [Notion integrations](https://www.notion.com/my-integrations) and create a new integration by clicking on the "+ New Integration" button. After that, you will be prompted to fill three fields:
 
