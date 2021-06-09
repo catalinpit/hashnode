@@ -1,5 +1,7 @@
 ## Track Job Applications With Notion API, Node.js and FastifyJS
 
+%[https://youtu.be/QOY86u423BU]
+
 Notion is a productivity software that allows you to create systems for knowledge management, project management and note-taking.
 
 They recently released their API to the public. You can use the API to integrate your Notion data to any application you want.
