@@ -1,5 +1,7 @@
 ## Learn How To Use MySQL With Node.js And Docker
 
+> I also have a YouTube channel! Do not forget to subscribe [here](https://catalins.tech/youtube).
+
 In this tutorial, you learn how to use a MySQL database in your Node.js project with Docker. You will build a simple application that allows you to collect email addresses from people.
 
 The technologies used in this tutorial are as follows:
