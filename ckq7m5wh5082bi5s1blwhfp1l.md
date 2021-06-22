@@ -8,7 +8,7 @@ The technologies used in this tutorial are as follows:
 * Express
 * MySQL
 
-**Note**: If you decide to use the API or an improved version to collect email addresses, make sure you comply with all the relevant regulations. I am not responsible for misusing the API or for using it maliciously.
+**Note**: If you decide to use the API or an improved version to collect email addresses, make sure you comply with all the relevant regulations. I am not responsible for misusing the API, for using it maliciously or for any other use.
 
 ---
 
