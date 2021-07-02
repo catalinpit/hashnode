@@ -1,5 +1,7 @@
 ## GitHub Copilot - Will Artificial Intelligence Replace Developers?
 
+> %[https://www.youtube.com/watch?v=uwfhDNxR_Zw]
+
 Will AI replace developers?
 
 Will you lose your job because of AI?
