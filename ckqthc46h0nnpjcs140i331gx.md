@@ -583,7 +583,7 @@ At the moment, you are only interested in the content API. The content API permi
 ![GraphCMS Content API permissions](https://cdn.hashnode.com/res/hashnode/image/upload/v1624886076880/ZuEv-JUTw.png)
 > Figure 43
 
-Let's create some permissions. To create new permissions, click on the button saying *"+ Create permission"*, as shown in figure 42 above.
+Let's create some permissions. To create new permissions, click on the button saying *"+ Create permission"*, as shown in figure 43 above.
 
 Once you click on the "create permission" button, a new pop-up appears from where you can configure your models. There are two important steps:
 * from the "**Model**" dropdown, select each model individually. Do not leave the default option "All" because there are other models created by the system. Create the permissions for each model individually.
