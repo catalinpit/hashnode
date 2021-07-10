@@ -1,5 +1,7 @@
 ## GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses
 
+%[https://www.youtube.com/watch?v=bsOHkdYFSK4]
+
 In this tutorial, you are going to build a voting application for tech courses. The voting application allows people to vote courses from tech so people can find quality courses.
 
 If you like a course and think it's a quality course, you can upvote it. The more upvotes a course has, the higher it appears on the page.
