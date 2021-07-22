@@ -24,7 +24,7 @@ Therefore, let us see the websites you can pitch to write articles. The most pop
     * Articles about OSS, infrastructure, cloud hosting, Linux, and more. It's not limited to their products, though!
 
 * **[Auth0](https://auth0.com/apollo-program)**
-    * Up to $300 per article
+    * Up to $450 per article
     * You pick topics from a list of possible articles.
 
 * **[Soshace](https://docs.google.com/document/d/1DZ9Hj8AcNfHI6bC4bfTDIFRNIIFnda6Mkj_n_4x3hWw/edit)**
