@@ -101,3 +101,5 @@ Therefore, the "First Contributions" website is a great alternative to find open
 These resources are more than enough, and I hope you find a project to contribute to! Go through each resource and see which one appeals to you.
 
 Additionally, I'd be curious if you know any other resources to find open-source projects. If you do know others, leave them below in the comments!
+
+*Learn [how to contribute to Open-Source projects as a beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)!*
