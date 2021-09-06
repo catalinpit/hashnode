@@ -366,7 +366,7 @@ Instead of using the property `imgDescription`, you use the computed property `h
 # Methods
 Even though you can write and run JavaScript expressions in your templates, it does not mean you should. For expressions such as `counter += 1` is fine, but what if you want to write more code? That can quickly go out of hand and create chaos in your templates!
 
-As a result, you can extract your code logic into a separate function and re-use the function everywhere you need the code. Your Vue instance has a `methods` property where you can add all your methods. Going to the previous section, [Handling events](handling-events), you can see that you already created and used a method - `purchase()`. In a similar vein, you can create other functions and use them throughout your application.
+As a result, you can extract your code logic into a separate function and re-use the function everywhere you need the code. Your Vue instance has a `methods` property where you can add all your methods. Going to the previous section, [Handling events](#handling-events), you can see that you already created and used a method - `purchase()`. In a similar vein, you can create other functions and use them throughout your application.
 
 Thus, I suggest you use methods for complex code logic. On the other hand, it's fine to use very basic expressions instead of creating a method.
 
