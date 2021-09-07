@@ -15,7 +15,7 @@ Before going further, I want to outline what you will learn by following the tut
 
 ---
 
-# Create the Vue app
+## Create the Vue app
 If you are familiar with the command line/terminal, you can follow the steps below to create the directory and files needed.
 
 ```
@@ -96,7 +96,7 @@ You just created your first Vue application, so congratulations to you!
 
 ---
 
-# List rendering
+## List rendering
 Vue allows you to loop over an array using the `v-for` directive. The `v-for` directive has the form of `tag in tags`. It's always easier to understand with an example. Look at the following code:
 
 ```js
@@ -166,7 +166,7 @@ You can provide the id of the object as the key. The loop would look as follows:
 
 ---
 
-# Conditional rendering
+## Conditional rendering
 Sometimes, you want to display elements on a page based on a condition. That is, use if statements to decide whether to render an element or not. Or to render it based on a condition.
 
 One example would be - *show all the programming courses if the rating is over 4 stars*. To do so, you can use the `v-if` directive, which renders a block only when the expression returns a truthy value. But, enough talk, let's see an example!
@@ -204,7 +204,7 @@ When you run the application, this is what you see (provided "available" is set 
 
 ---
 
-# Handling events
+## Handling events
 In Vue, you can use the `v-on` directive to listen to DOM events and run a piece of code when they are triggered. The `v-on` directive has a shorthand value as well, which is the symbol "@".
 
 For example, you can listen to a click event on a button as follows:
@@ -270,7 +270,7 @@ Inline code can be helpful for super simple tasks. However, it does not make sen
 
 ---
 
-# Attribute binding
+## Attribute binding
 
 
 ```js
@@ -319,7 +319,7 @@ If you run the application, you can see the image being displayed! *The image li
 
 ---
 
-# Computed properties
+## Computed properties
 Another helpful feature from Vue is the computed properties. With computed properties, you can manipulate data and re-use the result in your Vue application.
 
 Using the same example with the courses, let's say you want to make sure that your images always has a description. You could do that with a computed property, as follows:
@@ -363,7 +363,7 @@ Instead of using the property `imgDescription`, you use the computed property `h
 
 ---
 
-# Methods
+## Methods
 Even though you can write and run JavaScript expressions in your templates, it does not mean you should. For expressions such as `counter += 1` is fine, but what if you want to write more code? That can quickly go out of hand and create chaos in your templates!
 
 As a result, you can extract your code logic into a separate function and re-use the function everywhere you need the code. Your Vue instance has a `methods` property where you can add all your methods. Going to the previous section, [Handling events](#handling-events), you can see that you already created and used a method - `purchase()`. In a similar vein, you can create other functions and use them throughout your application.
@@ -372,14 +372,14 @@ Thus, I suggest you use methods for complex code logic. On the other hand, it's 
 
 ---
 
-# Methods versus Computed properties
+## Methods versus Computed properties
 Before finishing off, let me answer a question you might have - when to use a method and when to use a computed property?
 
 As a rule of thumb, it's better to use methods when you want to mutate existing data. On the other hand, it's better to use computed properties for the presentation layer.
 
 ---
 
-# Components and props
+## Components and props
 A Vue application is split into Components, which are individual pieces of the applications. For instance, you might have the following components in an application:
 * Header
 * Navigation
@@ -568,7 +568,7 @@ Thus, in this example, you can see the simplest way of using a prop.
 
 ---
 
-# Conclusion
+## Conclusion
 
 By now, you should be able to build simple Vue JS applications. All the code from the tutorial is available in the [vue3-intro repository](https://github.com/catalinpit/vue3-intro).
 
