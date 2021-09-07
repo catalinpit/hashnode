@@ -63,10 +63,6 @@ Therefore, let us see the websites you can pitch to write articles. The most pop
     * Up to $300 per article
     * You can pick from a list of possible topics.
 
-* **[Clubhouse Io](https://clubhouse.io/clubhouse-write-earn-give-program/)**
-    * Up to $600 per article
-    * Pick from a list of possible topics. Technical tutorials, and how-to guides.
-
 * **[TypingDNA](https://www.typingdna.com/guest-author-program)**
     * Up to $500 per article
     * Technical articles/tutorials related to TypingDNA.
