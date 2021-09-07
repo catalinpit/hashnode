@@ -6,7 +6,7 @@ The aim of the article is therefore to eliminate the confusion between the two s
 
 Without further ado, let's jump straight in!
 
-# AWS CloudWatch
+## AWS CloudWatch
 AWS CloudWatch is a monitoring service. That means it allows you to monitor the performance of your AWS resources and applications.
 
 **Where would you use AWS CloudWatch?**
@@ -21,7 +21,7 @@ Moreover, AWS CloudWatch is made up of multiple monitoring tools such as:
 
 Finally, AWS CloudWatch is an excellent service which you can use to monitor the performance and metrics of your resources an applications that run in AWS. It helps you to improve and scale your applications. It also enables you to stay within a budget, and thus not having unwanted costs. Consider CloudWatch as a person that watches your applications to make sure they work correctly, and at the best prices.
 
-# AWS CloudTrail
+## AWS CloudTrail
 Consider AWS CloudTrail as a detective that watches over your AWS account and environment. It shows you:
 * what action was taken
 * who did it
@@ -32,7 +32,7 @@ For instance, let's say your S3 bucket was deleted by mistake. You can use AWS C
 
 Thus, the primary use case for AWS CloudTrail is to monitor the activity in your AWS environment. Additionally, CloudTrail is compliance support due to providing a history of activity in your AWS environment. That means it is easier to ensure compliance with regulatory standards and internal policies.
 
-# The difference between CloudWatch and CloudTrail
+## The difference between CloudWatch and CloudTrail
 AWS CloudWatch monitors your AWS resources and applications, whereas CloudTrail monitors the activity in your AWS environment. For instance, with CloudWatch, you can scale your applications, whereas, with CloudTrail, you can see who did what to your applications.
 
 They are not mutually exclusive, and you can set CloudTrail to send events to a CloudWatch log, for instance.
@@ -41,10 +41,10 @@ Finally, remember:
 * CloudWatch **monitors performance**, whereas CloudTrail **monitors actions** in your AWS environment.
 * One (CloudWatch) focuses on performance, whereas the other (CloudTrail) focuses on auditing.
 
-# Conclusion
+## Conclusion
 The two services, CloudWatch and CloudTrail, can be used together. After this article, it should be clearer what is the difference between them. Also, you should know when to use one over the other.
 
-# Sources
+## Sources
 * FreecodeCamp's AWS Certified Solutions Architect - Associate 2020
 * ACloudGuru AWS Certified Solutions Architect Associate
 * AWS Documentation
