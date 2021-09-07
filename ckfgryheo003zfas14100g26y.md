@@ -12,7 +12,7 @@ Thus, let us see what the resources are:
 6. JavaScript30
 7. JavaScript.info
 
-# FreeCodeCamp
+## FreeCodeCamp
 The first resource on the list is FreeCodeCamp, which provides an excellent introduction to JavaScript. On top of that, it dives into advanced topics as well. Thus, you can go from no knowledge to an intermediate level.
 
 FreeCodeCamp takes you from the absolute basics, like declaring variables, to advanced topics such as functional programming. The JavaScript topics they cover are:
@@ -35,7 +35,7 @@ Check:
 * [FreeCodeCamp curriculum](https://www.freecodecamp.org/learn/)
 * [FreeCodeCamp YouTube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-# FrontEnd Masters
+## FrontEnd Masters
 Frontend Masters is a platform where you can learn new skills or deepen your understanding of JavaScript. They cover topics such as:
 * vanilla JavaScript
 * React
@@ -59,7 +59,7 @@ In conclusion, the membership is worth it because you get:
 Check:
 * [FrontEnd Masters](https://frontendmasters.com/)
 
-# You Don't Know JavaScript
+## You Don't Know JavaScript
 The book series "You Don't Know JavaScript" is one of the best resources to learn JavaScript. This series is split into six books, and it takes you from zero knowledge to an advanced level. It teaches you about the scope, closures, "this" keyword, object prototype, types & grammar, async, performance, and ES6 & beyond.
 
 The good thing is that, like FreeCodeCamp, YDKJS series is free. However, there are hard copies of the books as well, which are paid. Of course, you can buy them to support the author if you can afford it.
@@ -69,7 +69,7 @@ The "You Don't Know JavaScript" series is my go-to manual. Whenever I want to re
 Check:
 * [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
-# Exercism.io
+## Exercism.io
 Exercism is different in the sense that it is a coding challenges website. Nonetheless, it is beneficial to put into practice what you learn.
 
 The most useful feature of Exercism is that they assign you a mentor. That is, each time you submit a challenge, a mentor checks it for you, and it approves it or suggests changes. Having a mentor is incredibly valuable, and you progress faster. A mentor can guide you and tell you how and where to improve. It is something that helps you tremendously.
@@ -79,7 +79,7 @@ Therefore, Exercism is an excellent platform for beginners for the fact that you
 Check:
 * [Exercism.io](https://exercism.io)
 
-# JavaScript30
+## JavaScript30
 Building applications yourself is essential in programming. No matter how much theory you know, you need to build stuff to learn and improve your skills. As a result, we have JavaScript30, which focuses exclusively on building JavaScript applications. It does not use any frameworks, compilers, or boilerplates. It is purely vanilla JavaScript.
 
 The JavaScript30 course is for beginners and intermediates. It is teaching you the JavaScript fundamentals and how to work with the Document Object Model (DOM). Bear in mind; you should already have basic JavaScript knowledge before starting the course. The purpose of the course is to make you apply that knowledge.
@@ -89,7 +89,7 @@ JavaScript30 is entirely free, as well. You only need perseverance, consistency 
 Check:
 * [JavaScript30](https://javascript30.com/)
 
-# JavaScript.info
+## JavaScript.info
 JavaScript.info is a resource you can use as your primary learning resource or as a reference. It contains information on JavaScript fundamentals, advanced concepts, and Document Object Model. In other words, it covers almost everything you need to know about JavaScript.
 
 The website is split into three parts:
@@ -102,7 +102,7 @@ The information is dense, and to the point. You can use the website as your prim
 Check:
 * [JavaScript.info](http://javascript.info/)
 
-# Conclusion
+## Conclusion
 It is important to note that the list in this article is not exhaustive. There are many other resources on the internet to learn JavaScript. However, they are some of the best resources, based on their feedback and popularity.
 
 Even better, they are entirely free except for the hard copies of YDKJS, which you can buy if you want to support the author. Frontend Masters requires a membership too.
