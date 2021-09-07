@@ -39,11 +39,13 @@ touch tsconfig.json
 
 The `touch` command allows you to create empty files in the Unix-based systems, such as Linux and macOS - read more about the touch command. Since our `tsconfig` file is empty, if you try to run the app, you get the following error:
 
-> It looks like you're trying to use TypeScript but do not have the required package(s) installed.
+```
+It looks like you're trying to use TypeScript but do not have the required package(s) installed.
 
-> Please install typescript, @types/react, and @types/node by running:
+Please install typescript, @types/react, and @types/node by running:
 
-> yarn add --dev typescript @types/react @types/node
+yarn add --dev typescript @types/react @types/node
+```
 
 Since we are using npm in this tutorial, use the following command to install TypeScript in the project:
 
