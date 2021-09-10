@@ -6,7 +6,7 @@ However, I have found a way to organise my work and my time. I would like to thi
 
 By the way, when I talk about projects, I do not mean programming projects exclusively. I refer to being present on social media, creating applications, creating content, and anything related to software development.
 
-# Create a schedule
+## Create a schedule
 Create a schedule that works for you. If you work better in the morning, try to find some extra time in the morning. If you work better at night, do it the night time. The main point is to find the time that works for you.
 
 Besides being at your best, find the time when you can do uninterrupted work. If you get interrupted frequently, you will not be able to do a lot of work.
@@ -20,7 +20,7 @@ To recap:
 * Try to do uninterrupted work.
 * Having a schedule allows you to spend time on side projects.
 
-# Create a list of tasks
+## Create a list of tasks
 Unloading your brain is one of the best things that you can do for yourself. Trying to keep everything in your head can make you stressed. Besides that, you are more likely to forget information.
 
 Trello and Notion are two applications that I recommend for note-taking. In my case, I use Notion because it has more features and is therefore more useful. With Notion, you can use templates to create logs, task lists, and more.
@@ -34,7 +34,7 @@ To recap:
 * Note down your ideas, thoughts, and tasks.
 * By doing so, you can actually focus on your tasks and not other things.
 
-# Schedule your content
+## Schedule your content
 If you are present on social media or have a blog/video-blog, you know how difficult it is. When you are at your job, you cannot spend time on social media or on creating content.
 
 Thus, the solution is to create the content ahead of time and then schedule it. For your social media accounts, you can use tools such as HypeFury, Buffer or Tweetastic. You can schedule your content ahead for the next day or actually any time in the future.
@@ -48,7 +48,7 @@ To recap:
 * Schedule your social media content with tools such as HypeFury, Buffer or Tweetastic.
 * Schedule your blog/video blog content from the respective platforms.
 
-# Delegate some of your work
+## Delegate some of your work
 You do not have to do everything by yourself. Detect the tasks which you can delegate, and find someone to do them.
 
 An example would be finding someone to edit your YouTube videos. Editing your videos is a tedious process which can be delegated to another person. You could save a lot of time by delegating tasks.
@@ -57,7 +57,7 @@ To recap:
 * Find tasks you can delegate.
 * Delegate them to other people.
 
-# Conclusion
+## Conclusion
 That's it, folks! Balancing your job with your side stuff does not have to be difficult. With a little bit of organisation and tools, you can do both successfully.
 
 However, keep in mind that it can take a toll on you, even with all this help. Whenever you feel exhausted, take the time to recharge. 
