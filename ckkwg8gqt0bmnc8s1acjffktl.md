@@ -1,6 +1,6 @@
 ## Why You Need A Personal Domain For Your Developer Blog
 
-There are a plethora of platforms where you can start your blog as a developer. These blogging platforms can significantly differ in terms of features, the freedom they give you, and the benefits you get.
+There are a plethora of platforms where you can [start your blog as a developer](https://catalins.tech/how-to-start-your-blog-as-a-developer). These blogging platforms can significantly differ in terms of features, the freedom they give you, and the benefits you get.
 
 Therefore, in this article, I want to talk about the essential feature you should consider when choosing a platform. That is - the domain name.
 
