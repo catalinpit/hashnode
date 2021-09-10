@@ -1,4 +1,4 @@
-## A Comprehensive Guide On Setting Up Next.js With TypeScript And TailwindCSS
+## How To Use Next.js With TypeScript And TailwindCSS
 
 In this tutorial, you are going to learn how to set up Next.js with TypeScript and TailwindCSS. Firstly, we are going to add TypeScript, and afterwards TailwindCSS. The purpose of the tutorial is to help you set up a project with these three technologies.
 
