@@ -1,9 +1,5 @@
 ## 10 Programming Project Ideas For Beginners
 
-%%[mailerlite]
-
-<hr/>
-
 Nothing beats practice, especially when you learn to code. Building one project teaches you more than watching multiple tutorials.
 
 As a result, in this article, you can see a handful of programming projects suited to beginners.
@@ -91,3 +87,5 @@ To recap, some of the projects you can build are as follows:
 * List The Capital City
 * Pomodoro clock
 * Dollars to cents
+
+> Do you want to [learn programming](https://catalins.tech/20-best-places-to-learn-programming-for-free)? [Learn how to code for free](https://catalins.tech/20-best-places-to-learn-programming-for-free) with these resources.
