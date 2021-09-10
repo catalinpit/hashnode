@@ -116,3 +116,5 @@ These are all the resources I used to learn Vue.js and even Nuxt. Each resource 
 Before you pay for some of the resources, I highly encourage you to try the free ones. Sometimes, you can learn enough just with free resources. If you think you need more, you can pay for the premium services too.
 
 With that being said, if you know other resources, feel free to drop them in the comments.
+
+> Do you want to [learn programming](https://catalins.tech/20-best-places-to-learn-programming-for-free)? [Learn how to code for free](https://catalins.tech/20-best-places-to-learn-programming-for-free) with these resources.
