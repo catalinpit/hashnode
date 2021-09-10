@@ -1,4 +1,4 @@
-## Should Developers Use An Existing Blogging Platform Or Build A Blog From Scratch
+## Should Developers Use A Blogging Platform Or Build Their Blog
 
 After deciding to start a blog, many developers have to decide whether to use an existing blogging platform or create a custom blog from scratch.
 
