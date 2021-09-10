@@ -9,7 +9,7 @@ Thus, the questions you could ask are as follows:
 1. Is the company claiming ownership if I release a side project?
 2. Does the company have a clear progression path? 
 3. Does the company offer me a mentor?
-4. Is the company allowing me to contribute to open source projects? 
+4. Is the company allowing me to [contribute to open source projects](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)? 
 
 # Side project ownership
 The first question you might want to ask is "**is the company claiming ownership if I release free/paid side projects?**". There are many examples where companies claimed ownership of the employee's projects. That can happen even if you build the project in your free time and on your equipment.
