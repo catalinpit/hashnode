@@ -1,4 +1,4 @@
-## Nullish Coalescing Operator (??) In JavaScript - What Is It And How To Use It?
+## Nullish Coalescing Operator (??) In JavaScript
 
 # What Is Nullish Coalescing Operator in JavaScript
 
