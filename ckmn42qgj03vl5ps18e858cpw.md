@@ -2,14 +2,14 @@
 
 > Article written for PullRequest and published on [their blog originally](https://www.pullrequest.com/blog/keystonejs-and-graphql-crash-course-book-headless-cms/).
 
-# Video version
+## Video version
 %[https://www.youtube.com/watch?v=SfYNg6vQH4I&list=PL4tJdkBbj_XXJgwJsoF9lIsbsZzP_qI9T&index=29]
 
 KeystoneJS is a headless content management system (CMS) and a GraphQL API for NodeJS. A CMS like KeystoneJS allows us to create and store content. Then, it provides access to the content through an API.
 
 In this tutorial, you'll build a simple book inventory to store the books you are reading!
 
-# 1. Install Keystone
+## 1. Install Keystone
 The [documentation](https://www.keystonejs.com/quick-start/) does a great job explaining how to get started with KeystoneJS. Therefore, I am not going to reinvent the wheel.
 
 You can initialize a Keystone application using either `npm` or `yarn`.  Choose whatever suits you from the two:
@@ -40,7 +40,7 @@ We will choose the `blank` option for this course as we want to start from scrat
 
 Now you need to wait a few minutes for yarn to install the project dependencies.
 
-# 2. Open the project
+## 2. Open the project
 After the dependencies are installed, you should see the following output:
 
 > ![Screenshot 2021-03-15 at 13.44.12.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1615808663640/Bl2dtvXkn.png)
@@ -51,7 +51,7 @@ Now, let's open the project and start hacking around:
 
 **Note**: You can start the application by running `yarn dev`, but there is not much to see. Let's add some stuff and run it after!
 
-# 3. Some Keystone basics
+## 3. Some Keystone basics
 There is some basic stuff you need to know about KeystoneJS before moving further. Let's start by talking about lists.
 
 **Lists** - Lists are a way of representing data. If you worked with Node.js and MongoDB, you could associate lists with models. For instance, in this application, we have a list for users. That is a model for the user. The list specifies what you store about each user, where the fields come into play.
@@ -99,7 +99,7 @@ The `User` list has the following fields for the user:
 * username
 * password
 
-# 4. Create the folder structure
+## 4. Create the folder structure
 First of all, you need to set up the folder structure of your application.
 
 Start by creating a new folder `schemas` in the root folder of the project. This is the folder for our lists. Alternatively, you can name it `lists`,  `models` or whatever you think it's more descriptive.
@@ -109,7 +109,7 @@ In the newly-created folder (`schemas`), create a new file called `User.js`.
 Your project structure should look as follows:
 > ![Screenshot 2021-03-15 at 17.41.15.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1615822896496/fbH2BwvTU.png)
 
-# 5. Create the User list (model)
+## 5. Create the User list (model)
 Now that you have the project structure in place, let's create the `User` list. Open the file `schemas > User.js` and write the code below:
 
 ```
@@ -186,7 +186,7 @@ Now you should see the Users and the fields you specified! You should have the s
 
 Well done! Now you are ready.
 
-# 6. Create the Book list (model)
+## 6. Create the Book list (model)
 The next step is to create a Book model. So people using the application can keep track of the books they are reading!
 
 Create a new file, `Book.js`, in the `schemas` folder. Once you created the file, write the following code (or modify it as you wish):
@@ -252,7 +252,7 @@ keystone.createList('Book', BookSchema);
 
 At this point, we have the `User` and `Book` list in place. The next step is to create the relationship between them.
 
-# 7. Create the relationship User - Books
+## 7. Create the relationship User - Books
 So far, you created the User and Book models. However, there is no relationship between the two. How can a user add a book? Thus, in this section, you will create the relationship!
 
 What will the relationship look like?
@@ -319,7 +319,7 @@ Up to this point, you have the basic functionalities up and running. If you want
 
 Let's move onto the next section!
 
-# Admin field
+## Admin field
 Before moving onto authorization and authentication, you need to add a new field to the `User` list. The new field is called `isAdmin`, and it's used to give a user admin privileges.
 
 Go to the `schemas` folder and open `User.js`. At the top of the file, import the `Checkbox` field, like in the code below:
@@ -343,7 +343,7 @@ Now, when you create a new user, you have the possibility to make that user an a
 
 Otherwise, you won't be able to access and test the application!
 
-# Authentication & Authorization
+## Authentication & Authorization
 Before proceeding further, read this article on [Authentication versus Authorization](https://www.okta.com/identity-101/authentication-vs-authorization/#:~:text=Authentication%20and%20authorization%20might%20sound,permission%20to%20access%20a%20resource) from Okta, if you are not familiar with the terms.
 
 Now that you know the difference between the two terms let's proceed further. You have a working application, but there is one flaw. The flaw is that everyone can access and modify data. You do not want that, right?
@@ -506,7 +506,7 @@ After making this change, only the admins can make other users an admin. It's a 
 
 **P.S**: The way you set the access field is similar to how you did it in the `index.js` file for the **User** and **Book** lists.
 
-# Conclusion
+## Conclusion
 In this tutorial, you learnt the basics of KeystoneJS. From here, you can add more features to make a complex application.
 
 Some ideas:
