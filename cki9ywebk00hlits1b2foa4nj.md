@@ -6,7 +6,7 @@ They have varying difficulty, some being easier than others. Also, each course h
 
 Though, remember that nothing helps you more than building projects yourself. Follow the courses, and then put to use what you learned! Also, it's important to note that the courses are in no particular order. Without further ado, let's jump in.
 
-# Mozilla MDN Node.js/Express Tutorial
+## Mozilla MDN Node.js/Express Tutorial
 
 ![Screenshot 2020-11-27 at 09.12.38.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606461183793/4U8REP3Az.png)
 Mozilla MDN is an excellent website with many tutorials, including a tutorial on Node.js and Express. In the tutorial, you learn the concepts by building an online library. The application allows users to add books, authors, and genres. It also shows what the books are written by each author, and to what genre they belong to.
@@ -25,7 +25,7 @@ Do not be fooled by the simplistic look of the application because the tutorial 
 
 The verdict? I highly recommend the tutorial, and you can check it on the [MDN's website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs).
 
-# FreecodeCamp Tutorial
+## FreecodeCamp Tutorial
 ![FreeCodeCamp_logo.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606463147274/jffvtiYF6.png)
 Another excellent tutorial on Node and Express is the tutorial from [FreecodeCamp](https://www.freecodecamp.org/learn). Similar to Mozilla MDN, the tutorial takes you from no knowledge on the subject to advanced concepts like authentication. Besides that, you are going to build multiple applications, not just one. Thus, there are lots of opportunities to practice what you learn.
 
@@ -43,7 +43,7 @@ I extracted the most important topics, but the curriculum covers a lot more. Fre
 
 To conclude, Freecodecamp is one of the best resources because you do not have to set up your environment. That means you can focus just on coding and not other things. Besides that, the information is valuable, and you can learn a lot of stuff for free.
 
-# The Complete Node.js Developer by Andrew Mead
+## The Complete Node.js Developer by Andrew Mead
 ![Screenshot 2020-11-27 at 10.22.48.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606465393281/E0fYnWul3.png)
 
 This course is one of the best to introduce you to the world of Node.js and Express. During this course, you build four web applications. Each application has a purpose, and it teaches you a handful of concepts. Thus, you learn a lot by building those four projects.
@@ -63,7 +63,7 @@ As usual, I highlighted the most important concepts you learn in the course. How
 
 Do I recommend the course? Yes; I did the course twice, and I cannot recommend it enough. The course is suitable whether you are a beginner or an intermediate developer.
 
-# Learn Node by Wes Bos
+## Learn Node by Wes Bos
 ![Screenshot 2020-11-27 at 10.17.34.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606465082130/Dg9MpAz-t.png)
 
 From all the Node.js courses, the best-looking application you are going to build is in Wes Bos's course. The design of the application is catchy, beautiful and professional. 
@@ -86,7 +86,7 @@ As with the other courses, these are just some of the topics. The course covers 
 
 Do I recommend the course? Yes. It's a great course where you learn a ton of concepts by building a real-world application. The only blocker might be that it's a paid course. Otherwise, it's an all-around great course.
 
-# NodeJS - The Complete Guide by Maximilian Schwarzmüller
+## NodeJS - The Complete Guide by Maximilian Schwarzmüller
 ![Screenshot 2020-11-27 at 17.31.44.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606491200402/rqLbiFi6Z.png)
 
 This Node.js course is a little bit different in the sense that it covers more topics than just Node.js and Express. Even though the focus is on these two technologies, you learn others too. For instance, it teaches TypeScript and Deno, which is a bonus. You get more than you paid for.
@@ -102,7 +102,7 @@ As usual, these are not the only subjects. However, these are the concepts that 
 
 The verdict? The course is worth its money. It goes well-beyond Node.js and Express, and it teaches you other cool and useful concepts and technologies. You can check the course [here](https://www.udemy.com/course/nodejs-the-complete-guide/).
 
-# Conclusion
+## Conclusion
 These are the top five Node.js/Express courses I recommend. They can take you from no knowledge to an advanced level. Of course, I have to mention that these are not the only ones. Also, they are the top five based on my experience.
 
 I recommend all courses from this article because you cannot go wrong with any of them. However, if you have more suggestions, feel free to leave them in the comments. I would like to see more good courses.
