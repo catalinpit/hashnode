@@ -107,4 +107,4 @@ It is important to note that the list in this article is not exhaustive. There a
 
 Even better, they are entirely free except for the hard copies of YDKJS, which you can buy if you want to support the author. Frontend Masters requires a membership too.
 
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @me on Twitter with your opinions.
+> Do you want to [learn programming](https://catalins.tech/20-best-places-to-learn-programming-for-free)? [Learn how to code for free](https://catalins.tech/20-best-places-to-learn-programming-for-free) with these resources.
