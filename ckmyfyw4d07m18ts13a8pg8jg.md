@@ -214,3 +214,5 @@ Some of the topics you can choose from are HTML, CSS, JavaScript, Python and SQL
 These are the best places to learn coding for free I could find on the internet. Some of them help you learn concepts, while others allow you to practice what you learnt. I advise you to use them together, rather than picking one.
 
 If you know more great resources, feel free to drop them in the comments!
+
+> Are you stuck with project ideas? Check these [programming project ideas](https://catalins.tech/10-programming-project-ideas-for-beginners)!
