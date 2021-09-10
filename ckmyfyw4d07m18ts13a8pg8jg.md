@@ -1,11 +1,5 @@
 ## 20 Best Places To Learn Programming For Free
 
----
-
-<div class="no-border">[![cover (1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617198357271/uoNdlXnwM.png)](https://codelounge.dev)</div>
-
----
-
 There are a plethora of resources to learn how to code for free. However, the question is - which ones are worth using? As a result, this article shows you the best places to learn how to code for free. 
 
 # 1. [freeCodeCamp](https://www.freecodecamp.org/learn)
