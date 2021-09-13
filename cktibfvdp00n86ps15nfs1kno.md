@@ -64,4 +64,4 @@ We are eager to hear what you think. Please let us know in the comments!
 
 We are also live on **ProductHunt**. Feel free to show some love [here](https://www.producthunt.com/posts/hashnode-mobile-application)! 🔥
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/311834?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe style="border: none; background: #FFF" src="https://cards.producthunt.com/cards/posts/311834?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
