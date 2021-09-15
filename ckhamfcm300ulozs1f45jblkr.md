@@ -1,4 +1,4 @@
-## How To Use Multiple Node Versions With NVM On MacOS - Node Version Manager
+## How To Use Multiple Node Versions With NVM On MacOS
 
 Different projects use different Node versions. That means you might have to switch your Node versions depending on the project. As you might image, installing and uninstalling Node version is time-consuming.
 
