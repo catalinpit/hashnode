@@ -10,7 +10,7 @@ These are questions that often come up regarding Hashnode.
 
 So let's clear the air about:
 * Who owns your blog, and
-* What you can write on your blog
+* What you can write about on your blog
  
 ## Who Owns Your Blog? 👀
 
