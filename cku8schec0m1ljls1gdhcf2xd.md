@@ -1,6 +1,6 @@
 ## Extend Your Blog's Functionality With Hashnode Widgets
 
-With Hashnode Widgets, you can insert third-party embeds or iframes anywhere in your articles! This is powerful way to extend the functionality of your Hashnode blog.
+With Hashnode Widgets, you can insert third-party embeds or iframes anywhere in your articles! This is a powerful way to extend the functionality of your Hashnode blog.
 
 *"Can you give us an example?"* Sure. Let's say you have a YouTube channel where you create tech videos. With this feature, you can let your blog readers know about your channel by adding a widget inside your articles!
 
