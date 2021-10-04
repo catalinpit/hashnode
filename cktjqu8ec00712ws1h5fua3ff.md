@@ -223,4 +223,4 @@ Do not forget that portfolios are great to showcase your work and skills! Moreov
 
 I hope these portfolios help with inspiration, and you are ready to build your new portfolio. Or improve the existing one.
 
-*By the way, if you are looking to learn how to code, you can use these resources to [learn to code for free](https://catalins.tech/20-best-places-to-learn-programming-for-free). Also, you can use these resources to [learn JavaScript](https://catalins.tech/5-best-resources-to-learn-javascript-as-a-beginner).*
+*By the way, if you are looking to learn how to code, you can use these resources to [learn to code for free](https://catalins.tech/20-best-places-to-learn-programming-for-free). Also, you can use these resources to [learn JavaScript](https://catalins.tech/best-resources-to-learn-javascript-as-a-beginner).*
