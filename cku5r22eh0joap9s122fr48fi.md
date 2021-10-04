@@ -43,7 +43,7 @@ Also, let's not forget TypeScript, which is highly popular and in-demand. TypeSc
 
 However, take it with a grain of salt - it's more of an opinion rather than a fact. Things in tech change at a rapid pace, so new alternatives can appear at any time.
 
-> If you want to get started with it, check these [resources to learn JavaScript](https://catalins.tech/5-best-resources-to-learn-javascript-as-a-beginner).
+> If you want to get started with it, check these [resources to learn JavaScript](https://catalins.tech/best-resources-to-learn-javascript-as-a-beginner).
 
 ---
 
