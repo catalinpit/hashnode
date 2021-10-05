@@ -56,10 +56,33 @@ For instance, if you write about staying healthy as a developer, you could creat
 
 With the Hashnode Series feature, you can better organize your blog and help people find your related content more easily. You can read in-depth about the Series feature [here](https://townhall.hashnode.com/series-feature).
 
+## Hide Off-topic Articles from Hashnode
+
+<center>
+![SVG Illustration showing a person and a web browser](https://cdn.hashnode.com/res/hashnode/image/upload/v1633416569368/SrFurb_GB.png?h=350&w=350)</center>
+
+Are your articles non-technical or off-topic? No problem! You can hide your non-technical or off-topic articles from the Hashnode community altogether. But now you might ask - *what does that even mean*?
+
+When you publish articles on your Hashnode blog, they are automatically shown on the Hashnode feed. This is one of the mechanisms Hashnode uses to help writers get visibility on their articles.
+
+However, **you can opt-out** and hide your articles from Hashnode. That means your articles are shown only on your blog and not anywhere else.
+
+**How to do it?**
+
+The first step is to click on the "*Settings*" option from the article editor.
+
+![Screenshot showing the Hashnode article editor](https://cdn.hashnode.com/res/hashnode/image/upload/v1633417540842/4gJpb_jRW.png)
+
+After that, a new sidebar appears from where you can tweak your article. Scroll until the end, where you should see an option saying **Hide from Hashnode Community**.
+
+![Screenshot showing how to hide an article from the Hashnode community](https://cdn.hashnode.com/res/hashnode/image/upload/v1633417987882/G0TkajHlR.png)
+
+Tick the option, and you are done. Your article will not appear anywhere else other than your blog!
+
 ## Conclusion
 
 We hope this article clears up any doubts you might have: 
 
-**Hashnode gives you all the tools you need to blog, but does not tell you how you must use them.**
+**Hashnode gives you all the tools you need to blog but does not tell you how you must use them.**
 
 Your Hashnode blog is yours!
