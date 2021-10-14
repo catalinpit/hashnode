@@ -1,6 +1,6 @@
 ## Check if an Array of Objects Contains a Value in JavaScript
 
-Having duplicate data in your application is not desired. Imagine you have a database with people, and you have the same person multiple times. Thus, in this article, you will see how to check if an array of objects contains an object with a specific value.
+Having duplicate data in your application is not desired. Imagine you have an array with people, and you have the same person multiple times. Thus, in this article, you will see how to check if an array of objects contains an object with a specific value.
 
 Let's take the following phone book as an example:
 
@@ -38,7 +38,7 @@ const newPerson = {
 };
 ```
 
-The next step is to use the method `some()` to find whether the new person is already in the database or not. Since it's a simple check, we use an arrow function.
+The next step is to use the method `some()` to find whether the new person is already in the array or not. Since it's a simple check, we use an arrow function.
 
 
 ```js
@@ -65,7 +65,7 @@ const duplicate = people.some(person => person.name === newPerson.name);
 if (duplicate) {
     console.log(`you already added ${newName}!`)
 } else {
-    console.log(`${newName} was added to the database`);
+    console.log(`${newName} was added to the array`);
 }
 ```
 
