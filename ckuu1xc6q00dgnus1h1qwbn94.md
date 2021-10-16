@@ -27,7 +27,7 @@ const pool = new Pool({
 
 If you run the application now, you get an error.
 
-The solution to the error is to add a new property to the Pool configuration. All you need to do is to pass the following SSL configuration object to the `Pool` constructor:
+The solution to the error is to add a new property to the pool configuration. All you need to do is to pass the following SSL configuration object to the `pool` constructor:
 
 ```
 ssl: {
