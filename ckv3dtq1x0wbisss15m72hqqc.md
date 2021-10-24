@@ -75,7 +75,6 @@ const App = (props) => {
     { name: "Mary Poppendieck", number: "39-23-6423122", id: 4 }
   ];
 
-  const [persons, setPersons] = useState(people);
   const [search, setNewSearch] = useState("");
 
   return (
@@ -90,10 +89,9 @@ const App = (props) => {
 export default App;
 ```
 
-There are three additions:
+There are two additions:
 1. You imported the array of people at the top of the component. You store the data as an array in the component itself for this application because it is a simple app.
-2. The `persons` variable is assigned the array of people as the initial state.
-3. The `search` variable is assigned an empty string as the initial state. You will use the function `setNewSearch` to modify the state of the `search` variable.
+2. The `search` variable is assigned an empty string as the initial state. You will use the function `setNewSearch` to modify the state of the `search` variable.
 
 The next step is to handle the searching functionality.
 
@@ -132,7 +130,6 @@ const App = (props) => {
     { name: "Mary Poppendieck", number: "39-23-6423122", id: 4 }
   ];
 
-  const [persons, setPersons] = useState(props.people);
   const [search, setNewSearch] = useState("");
 
   const handleSearchChange = (e) => {
@@ -191,7 +188,6 @@ const App = (props) => {
     { name: "Mary Poppendieck", number: "39-23-6423122", id: 4 }
   ];
 
-  const [persons, setPersons] = useState(props.people);
   const [search, setNewSearch] = useState("");
 
   const handleSearchChange = (e) => {
@@ -248,7 +244,6 @@ const App = (props) => {
     { name: "Mary Poppendieck", number: "39-23-6423122", id: 4 }
   ];
 
-  const [persons, setPersons] = useState(props.people);
   const [search, setNewSearch] = useState("");
 
   const handleSearchChange = (e) => {
