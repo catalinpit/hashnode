@@ -22,7 +22,7 @@ With that being out of the way, let's dive in!
 
 It all started in August 2020 when I moved my blog to Hashnode. 
 
-Before using Hashnode, I tried all existing blogging platforms, but none were suited to my needs. And I did not want to [build a blog from scratch](https://catalins.tech/should-developers-use-a-blogging-platform-or-build-their-blog) either. **I wanted to focus only on writing articles**, not maintaining blogs. So I went with the classical choice - WordPress.
+Before using Hashnode, I tried all existing blogging platforms, but none were suited to my needs. And I did not want to [build a blog from scratch](https://catalins.tech/should-developers-use-an-existing-blogging-platform-or-build-a-blog-from-scratch) either. **I wanted to focus only on writing articles**, not maintaining blogs. So I went with the classical choice - WordPress.
 
 However, a new platform was emerging and gaining traction in the developer community. I first saw @[Edidiong Asikpo](https://twitter.com/Didicodes) using Hashnode, and I was amazed by how simplistic yet beautiful the blog looked.
 
