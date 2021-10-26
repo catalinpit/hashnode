@@ -80,3 +80,5 @@ The above code snippet shows how to solve the error when using Sequelize.
 ## Alternative
 
 You can omit the SSL configuration object by running `heroku config:set PGSSLMODE=no-verify` in the Heroku CLI.
+
+If you do not know how to do that, you can read this article to [learn how to set environment variables on Heroku](https://catalins.tech/heroku-environment-variables).
