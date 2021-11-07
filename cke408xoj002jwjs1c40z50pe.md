@@ -1,11 +1,14 @@
-## Websites That Pay You To Write Technical Articles
+## Publications That Pay You To Write Technical Articles
 
-Getting paid to write technical articles is a great way to supplement your income. Especially if you already write articles for your blog. However, the first question that arises is "*how can I get opportunities?*", which was my question too. 
+Companies and publications hire people to write technical articles for their blogs. Writing paid articles for them is a great way to supplement your income.
+The question that arises now is "*how do you get those opportunities?*".
 
-As a result, I want to list a handful of websites that pay you to write technical articles for them. You can see their name, the URL, and the approximate sum they pay you.
+This article helps you find writing opportunities by listing the publications that pay for technical articles.
 
-# Websites that pay you 
-Therefore, let us see the websites you can pitch to write articles. The most popular publications are as follows:
+# Websites that pay for technical articles
+The article fees range from $100 to $500. The fees depend on the article topic, complexity and level of knowledge. The more complex and advanced an article is, the higher the fee.
+
+For each website, you can see their name, the URL, and the approximate fee for an article.
 
 * **[Twilio](https://go.twilio.com/twilio-voices/)**
     * Up to $500 per article
@@ -48,7 +51,7 @@ Therefore, let us see the websites you can pitch to write articles. The most pop
     * Content focused on technical education for topics related to application development and Fauna, with working sample code, wherever applicable. They have a list of possible topics.
 
 * **[Smashing Magazine](https://www.smashingmagazine.com/write-for-us/)**
-    * Unknown (In 2016 they paid up to $250)
+    * Between $200 and $250
     * You can submit tutorials, guides and case studies. 
 
 * **[Code Tuts+](https://code.tutsplus.com/articles/call-for-authors-write-for-tuts--cms-22034)**
@@ -69,13 +72,22 @@ Therefore, let us see the websites you can pitch to write articles. The most pop
 
 * **[LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/)**
     * Up to $350 per article
-    * Technical articles about Front-end. Tutorials on React, Redux, Vue.js, webpack, Wasm, MobX, GraphQL, JavaScript, etc. Frontend development best practices. Product/UI/UX design
+    * Technical articles about Front-end. Tutorials on React, Redux, Vue.js, Webpack, Wasm, MobX, GraphQL, JavaScript, etc. Frontend development best practices. Product/UI/UX design
 
 * **[Draft](https://draft.dev/#write)**
     * Up to $500 per article
-    * Choose for a list of possible topics
+    * Choose from a list of possible topics
 
-# Sources
-Sharing your knowledge and getting paid for it can be a great source of income. Thus, you can start earning an additional income by applying to write for the above publications/organizations.
+* **[Agora](https://www.agora.io/en/agora-content-contributors/)**
+    * $250 per article
+    * You can propose an idea
 
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
+* **[Appsmith](https://www.appsmith.com/blog/launching-the-appsmith-writers-program)**
+    * Between $200 and $400 per article
+    * Write about Appsmith's product
+
+* **[SitePoint](https://www.sitepoint.com/write-for-us/)**
+    * Between $150 and $300 per article
+    * You can pitch your idea or pick a topic from their page
+
+Sharing your knowledge and getting paid for it can be a great source of income. It is also a great way to build a name for yourself in the tech community. When you write for these publications, your content gets exposed to a large audience.
