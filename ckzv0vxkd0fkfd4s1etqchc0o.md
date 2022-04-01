@@ -191,6 +191,20 @@ As soon as you press enter, your browser opens a Google search for "javascript t
 
 That's how you add plugins to your terminal. You can see the complete list of plugins in the [official wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins).
 
+## VS Code Settings
+
+Earlier, you saw that some themes require special fonts. Even though you set the font for iTerm2, they will not work in VS Code.
+
+That means you need to add the font manually in VS Code's settings. Open the `settings.json` file by pressing CMD + Shift + P. 
+
+After that, add the following line anywhere in the file:
+
+```
+"terminal.integrated.fontFamily" : "Meslo LG L DZ For Powerline",
+```
+
+Now the theme should work properly in VS Code as well. Feel free to replace the above font with a font of your choice.
+
 ## Recap
 
 At this point, you should have a better-looking and more powerful terminal. It was quite a lot to do, but it's worth it, right?
