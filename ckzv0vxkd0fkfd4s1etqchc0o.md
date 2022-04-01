@@ -193,7 +193,7 @@ That's how you add plugins to your terminal. You can see the complete list of pl
 
 ## VS Code Settings
 
-Earlier, you saw that some themes require special fonts. Even though you set the font for iTerm2, they will not work in VS Code.
+Earlier, you saw that some themes require special fonts. Even though you set the font for iTerm2, it will not work in VS Code.
 
 That means you need to add the font manually in VS Code's settings. Open the `settings.json` file by pressing CMD + Shift + P. 
 
