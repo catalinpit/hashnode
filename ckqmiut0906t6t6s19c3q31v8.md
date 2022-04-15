@@ -87,3 +87,13 @@ We are looking forward to seeing what you will build. 🔥
 
 # Need help?
 Join the hackathon channel on [Hashnode's Discord server](https://discord.gg/qsAQfxX), [Clerk's Discord Server](https://discord.gg/38hXdBAQ5U) or tweet to ([@Hashnode](https://twitter.com/hashnode)).
+
+
+---
+
+[![Host a hackathon on Hashnode](https://cdn.hashnode.com/res/hashnode/image/upload/v1650062497191/QIhGhGXRk.png)](https://hashnode-com.typeform.com/to/K2iX2P7j)
+
+### 👋 Interested in hosting a hackathon on Hashnode?
+Hashnode is one of the fastest-growing tech blogging communities for sharing knowledge on the internet. These Hackathons allow DevTools and API companies to promote their products among a growing community of software developers. 
+
+[Fill out this form](https://hashnode-com.typeform.com/to/K2iX2P7j) if your company is interested in partnering with Hashnode for a Hackathon. 
