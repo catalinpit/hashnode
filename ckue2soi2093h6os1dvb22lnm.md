@@ -188,3 +188,5 @@ The terminal commands on MacOS work on Linux as well because they are both UNIX-
 Some commands work on both systems, but not all of them. The commands that work on both systems are limited.
 
 If you want to see the MacOS terminal commands and their Windows alternatives, check [this resource](https://enexdi.sciencesconf.org/data/pages/windows_vs_mac_commands_1.pdf).
+
+By the way, check this article to learn how to [supercharge your Mac terminal with oh-my-zsh and iTerm2](https://catalins.tech/improve-mac-terminal).
