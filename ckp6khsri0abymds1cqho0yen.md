@@ -124,7 +124,7 @@ touch src/controllers/controllers.js
 
 This is how the structure of your application should look like until this point:
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621964996163/MeIroa2x9.png" alt="Notion App folder structure" width="350" />
+> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621964996163/MeIroa2x9.png" alt="Notion App folder structure" width="350" />
 
 Now you are ready to build the application!
 
