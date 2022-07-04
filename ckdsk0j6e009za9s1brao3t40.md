@@ -4,7 +4,7 @@ Many developers, use the words "parameter" and "argument" interchangeably. Howev
 
 Therefore, let us clarify what each of these terms means.
 
-<h4>PARAMETERS</h4>
+<h2>Parameters</h2>
 
 The parameters refer to the variables that are in the method/function header. These variables, which we call parameters, receive a value when we call the function or the method. We can think of them as placeholders. In other words, they tell us what values we need to pass to the function/method.
 
@@ -18,7 +18,7 @@ function sayHello(name) {
 
 In the above function, the "name" variable is the parameter. The "name" parameter gets assigned a value when we call the function <code>sayHello</code>.
 
-<h4>ARGUMENTS</h4>
+<h2>Arguments</h2>
 
 The term "arguments" refers to the actual value we pass to the function when we call it. When we call the function <code>sayHello</code> with the value "Catalin Pit", the value is the argument.
 
@@ -28,7 +28,7 @@ sayHello('Catalin Pit');
 
 In the above example, "Catalin Pit" is the argument. In other words, the parameters are the placeholders for where the arguments (values) go.
 
-<h4>CONCLUSION</h4>
+<h2>Conclusion</h2>
 
 I hope you understand now what is the difference between these two terms.
 
