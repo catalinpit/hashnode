@@ -28,8 +28,6 @@ First of all, if you want to start freelancing, building a name for yourself is 
 
 You might ask "did YOU get any of these opportunities?". The answer is yes, I had all these opportunities come my way except number 1.
 
-However, in this article, I am going to touch on these subjects briefly. For more in-depth information, check **[audiencebuilding](http://audiencebuilding.online/)**.
-
 # Be active on social media
 
 The first step in building an audience online is to be more active on social media platforms. You have to experiment with each platform and see which one works for you. However, if you ask for my opinion, I would recommend Twitter as a starter. You might ask "why Twitter?". The reasons why I recommend Twitter are because:
@@ -104,9 +102,7 @@ What are the takeaway points from this section?
 
 # Conclusion
 
-This is the end. I hope this article gives you an idea of how to build an audience online. Of course, if you want more in-depth information, have a look at **[audiencebuilding](http://audiencebuilding.online/)** or use the button below.
-
-The main takeaway points from this article are:
+This is the end. I hope this article gives you an idea of how to build an audience online. The main takeaway points from this article are:
 
 1. Build a presence on social media platforms such as Twitter
 2. Start a blog or a YouTube channel, whatever is better for you
