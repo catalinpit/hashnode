@@ -55,5 +55,3 @@ In conclusion, these are the reasons why I choose to use and become part of the 
 
 # Conclusion
 I hope the article makes it clear why I chose Hashnode and why it can be an excellent choice for anyone. I want to emphasise again that I did not get paid to move to Hashnode or write this article. 
-
-<blockquote> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions. </blockquote>
