@@ -42,5 +42,3 @@ Thus, if you have other offers, learn how to use them at your advantage.
 These are my tops tips when it comes to knowing how to negotiate your salary as a developer. The list is not exhaustive, and there are many other aspects of negotiating.
 
 I hope the article gives you some insights and helps you see negotiating with other eyes. The essential thing is to negotiate your salaries. Otherwise, you leave money on the table.
-
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
