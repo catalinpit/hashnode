@@ -4,7 +4,7 @@ Surprisingly, the salary is not the most important thing; for me, at least. I do
 
 Even though it does not hurt to have them, they are on a low priority for me. I have other priorities, which are far more important than solely the salary. However, that does not mean ignoring the salary entirely. It means not the choose a job only based on the money they give you.
 
-# What do I mean?
+## What do I mean?
 
 I am talking about these:
 
@@ -26,7 +26,7 @@ Good mentors are hard to come by. However, I am interested if the company is kee
 
 Exciting work. It is not always possible to do exciting work. Sometimes we have to do boring work, and it is fine. The problem is when the tedious work is the norm. Ask them to tell you about their projects, or to show you some samples.
 
-# Conclusion
+## Conclusion
 
 Do you still think the salary is the most important thing? I highly recommend that you re-consider that. When applying for a job, or before accepting an offer, take into consideration:
 
@@ -35,5 +35,3 @@ Do you still think the salary is the most important thing? I highly recommend th
 * the progression path
 * if there are good mentors
 * if you are doing exciting work
-
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
