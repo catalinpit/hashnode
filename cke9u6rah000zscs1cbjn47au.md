@@ -4,7 +4,7 @@ In this article, you are going to learn about a core AWS service, called Simple 
 
 Therefore, let us start by looking at some of the use cases for this service. 
 
-# AWS S3 use cases
+## AWS S3 use cases
 
 Some of the use cases for AWS S3 are as follows:
 
@@ -13,13 +13,13 @@ Some of the use cases for AWS S3 are as follows:
 * **Backups** => As you will see later in the article, S3 provides maximum durability and availability. That means it is a perfect place to store your backups.
 * **Website assets** => You can store your website assets such as logos, media, photos, videos, and so on.
 
-# What is AWS S3?
+## What is AWS S3?
 
 First of all, the full name is Simple Storage Service. Thus, to shorten the name, they simply call it S3 because of the three S.
 
 S3 is one of the oldest and most fundamental AWS services. This service allows you to store and retrieve any amount of data from anywhere in the world. In simpler words, it is a hosting service where you can store your flat files. By flat files, I mean files that do not change—for instance, pictures, videos and so on. Thus, you cannot store a database on S3 because it is continuously changing.
 
-# Objects and Buckets
+## Objects and Buckets
 
 S3 is an object storage service, which means that the objects are stored in buckets. A bucket is another term for a directory, and an object is another term for a file. An object (file) contains the following information:
 
@@ -40,7 +40,7 @@ Therefore, let us quickly recap. AWS S3 is a storage service which stores your d
 * Buckets must have unique names because the S3 namespace is universal – that means, there cannot be two buckets with the same name in the world
 * When an object is uploaded successfully in the bucket, it returns the status code 200
 
-# S3 Storage Classes
+## S3 Storage Classes
 
 AWS S3 is a complex service, and you can use it for different uses cases such as archiving your data, simply storing your data and so on. As a result, it has different storage classes for different uses cases.
 
@@ -84,7 +84,7 @@ AWS S3 is a complex service, and you can use it for different uses cases such as
 </li>
 </ol>
 
-# S3 Security
+## S3 Security
 
 By default, all the S3 buckets you create are private. In other words, they are not available to the public; nobody can access them if you give them the link. You have to change the permissions to allow people to access your S3 objects.
 
@@ -160,7 +160,7 @@ We can infer from the code snippet what this policy is about, exactly like with 
 
 If you want to control what a user can do in your AWS environment, you should probably use an IAM policy. If you want to control who can access your S3 buckets, you should probably use a Bucket Policy.
 
-# S3 Encryption
+## S3 Encryption
 
 It allows you to set necessary encryption behaviour for your S3 buckets. Encryption is vital because it protects your data from being stolen. As an example, let us say someone hacks into the AWS servers, and get access to your data. You do not want them to read your data. Therefore, AWS offers various methods of encrypting your data in S3. By default, AWS S3 uses SSL/TSL.
 
@@ -174,7 +174,7 @@ There are four types of server-side encryption:
 
 Besides these, there is also client-side encryption, which means that you encrypt the data before uploading it to S3. With client-side encryption, you can store the master key (CMK) in AWS Key Management Service (AWA KMS), or you save a master key within your application. You are solely responsible for encrypting and decrypting the data.
 
-# S3 Data Consistency
+## S3 Data Consistency
 
 Data consistency is a vital topic. We have two questions:
 
@@ -187,7 +187,7 @@ What happens when we update or delete existing objects? In this case, we have "*
 
 That is all about data consistency in AWS S3.
 
-# Cross-Region Replication (CRR)
+## Cross-Region Replication (CRR)
 
 This feature allows you to make copies of your S3 objects in a different AWS region easier. To use the "Cross-Region Replication" feature, you must have **versioning** enabled because it is built on top of it.
 
@@ -205,7 +205,7 @@ Once you enable the feature, each object has a unique version ID assigned to it.
 
 For extra security, you can enable multi-factor authentication (MFA). What that means is that S3 requires additional authentication to change the versioning state of the bucket and to delete an object version permanently.
 
-# S3 Lifecycle Management
+## S3 Lifecycle Management
 
 Everybody cares about costs, and sometimes your objects might use a cost-ineffective storage class. What this feature allows you to do is to automate the process of moving your objects to a more cost-effective storage class or delete the objects altogether.
 
@@ -228,7 +228,7 @@ Why would you use this feature?
 
 The above picture illustrates the feature better. The user uploads the files to the closest edge location to them, and AWS takes care of routing that data from the edge location to an S3 bucket over an optimised network path. That is all.
 
-# Conclusion
+## Conclusion
 
 In conclusion, AWS S3 is a service you need to be comfortable with, especially if you are looking to take the exams. In this article you learnt about:
 
