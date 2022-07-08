@@ -89,5 +89,3 @@ Thus, some of the things you can do to improve your chances of landing a develop
 * Take care of your GitHub profile
 * Build some projects with other people
 * Network. Meet other people
-
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinion.
