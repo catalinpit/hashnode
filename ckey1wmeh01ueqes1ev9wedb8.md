@@ -8,7 +8,7 @@ More and more developers want to share their developer journey and their knowled
 
 As a result, in this article, I want to talk about starting your blog as a developer. With this article, I hope to provide you with a basis for your blog. Also, after reading this article, I want you to be able to make a decision.
 
-# What platform to use for my blog
+## What platform to use for my blog
 The first question is what platform to use for your blog. There are a plethora to choose from, with the most notable being WordPress, Hashnode, and Dev To.
 
 If you want to focus only on the content, and nothing else, WordPress is a good choice. Once you buy a domain, hosting, and you install WordPress, all you have to do is to write articles. My first blog was on WordPress, and it was fine. However, I find it too bloated for a simple blog like mine. 
@@ -30,7 +30,7 @@ Lastly, we have DEV To, which is a beautiful platform too. However, it comes wit
 ### The conclusion
 If you want my recommendation, I would say to buy a domain, use Hashnode, and cross-post your articles on DEV To. This way, you only focus on the content, and you can reach a lot of people by being part of two communities. 
 
-# What to write about
+## What to write about
 If you are an experienced developer, you probably have a lot of ideas to share. On the other hand, as a beginner or junior, it can be tricky to come up with article ideas. The good thing is that you do not have to be an expert to have a blog. 
 
 As a beginner, you can blog about the things you are learning and the issues you encounter along the way. Here are two article ideas for your blog:
@@ -43,7 +43,7 @@ By writing about something, you cement the knowledge in your brain. Thus, in the
 
 To conclude, I want to repeat that you do not have to be an expert to have a blog. You can blog about the things you learn, and the problems you solve along the way. On the other hand, if you are an experienced developer, you can write about your area of expertise.
 
-# What tools to use
+## What tools to use
 There are some tools we can use to improve your writing and the aesthetics of our blog. First of all, the content is the most important in a blog. Thus, you want to make sure your articles are as good as possible in all aspects. Thankfully, there are two useful tools we can use to improve our writing:
 
 1. **Grammarly** => Grammarly checks your text to make sure that your writing is correct, clear and easy to read. I am using this tool for three years now, and it helped me tremendously to improve my writing.
@@ -60,14 +60,14 @@ If you do not specify the OG image, the link looks broken, and it is almost unno
 
 They both allow you to create different types of graphics. You can create custom images, banners, logos, and videos. I am using them for half a year now, and I am pleased with them. I use them all the time, especially for videos and images. I highly recommend them.
 
-# Statistics do not matter
+## Statistics do not matter
 In the beginning, statistics do not matter, and you should not worry about them. If you focus on the statistics from the beginning, you can quickly get discouraged. Your main goal is to help yourself and document your learning in the beginning.
 
 For instance, I started my blog by documenting my solutions to Data Structures and Algorithms exercises. In the beginning, nobody read my articles. However, after a while, people began to come from Google to see my solutions. The morale is to keep writing, and people will read your blog eventually.
 
 After you write consistently for a few months, you can start looking into how to improve your analytics. Be consistent, be patient, and the results are coming. 
 
-# Conclusion
+## Conclusion
 The purpose of this article is to give you a basis for starting your blog. By now, you should have an idea about what platform to use, what to write about, and what to use to create graphics for your articles.
 
 The most important points to remember are:
@@ -75,5 +75,3 @@ The most important points to remember are:
 * Make use of tools like Grammarly, and The Hemingway App to improve your writing.
 * Always specify an `og:image`.
 * Do not worry about the statistics in the beginning. 
-
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinion.
