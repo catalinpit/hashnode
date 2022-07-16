@@ -1,12 +1,12 @@
 ## One Way To Stay Up To Date As Developer
 
-We all know things are moving fast in the technology sector. New tools, libraries, and frameworks are released continuously. It feels we are continually playing catch up with the latest technologies, and that we are never up to date. The feeling is even more prominent in beginners.
+We all know things are moving fast in the technology sector. New tools, libraries, and frameworks are released continuously. It feels like we are continually playing catch up with the latest technologies, and that we are never up to date. The feeling is even more prominent in beginners.
 
 Therefore, how can we stay up to date with the tech sector? First of all, I want to emphasise that you do **not** have to learn everything new. By doing so, you do not have time to specialise in anything, and you remain a novice. Secondly, you should be very selective when learning a new technology, as it might become obsolete fast. Let technologies mature, and be careful when picking something new to learn.
 
-Anyways, the point of this article is to help you stay up to date as a developer. As a result, I want to recommend you some ways you can do so. What I present in the article is not the only way; it is the way I do it. 
+Anyways, the point of this article is to help you stay up to date as a developer. As a result, I want to recommend to you some ways you can do so. What I present in the article is not the only way; it is the way I do it. 
 
-# News aggregators
+## News aggregators
 Having a lot of information available is both a blessing and a curse. The benefit is that you always have options to choose from. The curse is that you do not know what to choose. However, it does not have to be like that. There are ways we can curate information, and get only the information that interests us.
 
 I do not use news aggregators much, except for one. The one I am using for almost one year now is [daily.dev](https://api.daily.dev/get?r=1f56bbdcc27c4eea9ac71eceef52ed3d). Daily is a Chrome/Firefox extension, which delivers the best programming news for you. What does that mean? It means that you install the extension, and instead of having the blank new tab, you have a screen with tech news from trusted sources.
@@ -18,7 +18,7 @@ Figure 1 illustrates an example from Chrome. If you cannot see the image correct
 
 In conclusion, Daily is the only news aggregator I use. It is time-saving, useful, and handy. 
 
-# Newsletters
+## Newsletters
 Subscribing to newsletters is an excellent way to get lots of valuable information to your email. However, there are many newsletters and it might be difficult to choose between them. Thus, the purpose of this section is to answer the following question - **what newsletters should you subscribe to?**
 
 The newsletters I am subscribed to are as follows (no particular order):
@@ -32,7 +32,7 @@ That is all about it when it comes to newsletters. These are the newsletter I am
 
 By the way, if you have any newsletter recommendations, feel free to drop them below. 
 
-# Blogs
+## Blogs
 
 I want to recommend blogging platforms instead of individuals. Why? I prefer blogging platforms because you can discover more authors and a more diverse pool of topics. You find topics ranging from web development to self-improvement, and more.
 
@@ -40,7 +40,7 @@ The two blogging platforms where I am active, and I enjoy the most are Dev To an
 
 From my point of view, they are one of the best sources for information. I use them regularly to stay up-to-date and to write articles. 
 
-# Social media platforms
+## Social media platforms
 
 Social media platforms are great to stay up-to-date, as well. There are many accounts you can follow to get the latest news from the tech world. Let us see some of the accounts I recommend:
 
@@ -52,7 +52,7 @@ Social media platforms are great to stay up-to-date, as well. There are many acc
 
 These are the accounts I check when I want to find new information or to learn something new. Of course, the list is not exhaustive, and there are many other useful accounts. I encourage you to reply with your favourite accounts from where you consume tech news.
 
-# Conclusion
+## Conclusion
 The article illustrates my way of staying up-to-date as a developer. It is not the only way or the best way. In fact, I would appreciate it if you would reply with your methods of staying up-to-date.
 
 To recap:
@@ -60,5 +60,3 @@ To recap:
 * Subscribe to the non-exhaustive list of newsletters presented in the article.
 * Use blogging platforms such as Hashnode and Dev To to find news and tutorials.
 * Follow Hashnode, FreeCodeCamp and Dev To on social media platforms.
-
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
