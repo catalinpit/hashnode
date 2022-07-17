@@ -4,7 +4,7 @@ Hashnode has a built-in newsletter service, which does the job well and saves yo
 
 Therefore, I want to show you how you can integrate Mailerlite with Hashnode. That is, how can you embed your sign-up form into your blog.
 
-# Getting the embed code from Mailerlite
+## Getting the embed code from Mailerlite
 I want to mention that I am not showing how to create a sign-up form. The purpose of this article is only to show how to integrate an existing one with Hashnode.
 
 The **first step** is to log into your Mailerlite account, and go to the **Forms** tab. Once you are on the page with all the forms, click on the **Embedded forms** options. This is the category of the form we are going to use.
@@ -25,7 +25,7 @@ Figure 2
 
 Figure 2 illustrates what you should see on your page. The code has been cut from the image.
 
-# Create the widget in Hashnode
+## Create the widget in Hashnode
 The last step you have to do is to create and use the widget on Hashnode. Go to your blog dashboard, and then click on the "**Widgets**" tab. Once you are there, click on the button saying "**Add new Widget**". 
 
 Figure 3 illustrates what you should see in your blog dashboard.
@@ -42,7 +42,7 @@ Click on the button saying "*Create*", and you are ready to use your widget.
 > ![Screenshot 2020-11-17 at 16.34.16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1605718475897/M2IGqz0rq.png)
 Figure 4
 
-# How to use the widget on your blog
+## How to use the widget on your blog
 Figure 5 illustrates how you can use the widget on your blog. Add the name of your widget between the square brackets.
 
 **Mention**: The `<hr/>` tag is not necessary.
@@ -52,7 +52,7 @@ Figure 5
 
 At the time of writing the article, you can use widgets in your articles and pages. However, this might be subject to change.
 
-# Conclusion
+## Conclusion
 The article taught you how to integrate Mailerlite with Hashnode. Except for the part with the Mailerlite, you would use the same steps to integrate other providers and services.
 
 To recap:
