@@ -11,7 +11,7 @@ If you do not specify the canonical URL, search engines choose randomly between 
 
 **So, what?** You might ask. If you have a preferred platform or a blog, you want the article from that platform/blog to get all the SEO! You do not want to split it with the other platforms or, even worse, get nothing. **Thus, canonical URL helps with that!**
 
-# What is a canonical URL?
+## What is a canonical URL?
 A canonical link is an HTML element - `rel=canonical` - that specifies the original source of an article; or the preferred version of the article. The canonical URL tells search engines which version to index and send the SEO juice to.
 
 A canonical URL looks as follows:
@@ -24,7 +24,7 @@ Of course, the `href` value is different for each case, depending on your articl
 ![Copy of Cream, Pink and Purple Brushstrokes Musician Collection YouTube Thumbnail.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1617707265812/WVTmX3jKp.png)
  As a result, I avoid confusing search engines and getting penalised. It also ensures that I get all the SEO benefits.
 
-# How to use the canonical URL
+## How to use the canonical URL
 Thankfully, you do not have to add all the HTML when you re-publish your content on other platforms. 
 
 Most platforms *(if not all of them)* need the original article URL, and they set the canonical tag automatically to the link provided by you.
@@ -33,7 +33,7 @@ Most platforms *(if not all of them)* need the original article URL, and they se
 
 The figure above shows an example from Hashnode. You simply add the article URL and Hashnode (and other platforms) do the rest.
 
-# What do you need to remember
+## What do you need to remember
 Before going, I want to reinforce the following ideas in your mind:
 
 1. If you publish the same piece of content on multiple platforms, use a canonical URL.
@@ -42,5 +42,5 @@ Before going, I want to reinforce the following ideas in your mind:
 4. Using a canonical, you get all the SEO benefits.
 5. If you do not use a canonical, search engines see duplicate content and might penalise you.
 
-# Further reading
+## Further reading
 [Source 1](https://yoast.com/rel-canonical/), [Source 2](https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls), [Source 3](https://yoast.com/duplicate-content/)
