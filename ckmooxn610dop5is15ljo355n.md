@@ -11,7 +11,7 @@ Thus, in this article, I will show you how you can make the most of remote worki
 4. [Create a list of tasks and a journal](#4-create-a-list-of-tasks-and-a-journal)
 5. [Up your time-management skills](#5-up-your-time-management-skills)
 
-# 1. Work-life balance
+## 1. Work-life balance
 I want to start with establishing a healthy work-life balance. If you value your health, life, family, and friends - having a healthy work-life balance is of utmost importance.
 
 Having the workplace "with you" at home can be tempting to over-work yourself. It's super easy to cross the fine line and become a workaholic. You'll lie to yourself that it's just one more task, one more feature, one more email, and so on. Then, you look back and find out that you spent the majority of your time working.
@@ -24,7 +24,7 @@ Having the workplace "with you" at home can be tempting to over-work yourself. I
 
 The above list is not exhaustive, and there are many ways to create or improve your work-life balance. However, they are the pillars of my work-life balance.
 
-# 2. Block distractions to maximise productivity
+## 2. Block distractions to maximise productivity
 In the offices, we worked alongside our team-mates and superiors. As a result, people saw you when you "wasted" time browsing social media. You didn't want to get caught, so you wasted as little time as possible.
 
 However, working remotely changed that. We're no longer surrounded by our co-workers and superiors. We are on our own! That makes it easier than ever to fall into time-wasting and spend a lot of time in it. After all, nobody can see us, right?
@@ -50,7 +50,7 @@ Therefore, you can improve your productivity by simply:
 
 Try it for a few days, and you'll be amazed!
 
-# 3. Create a schedule
+## 3. Create a schedule
 Create a schedule that works for you. If you work better in the morning, try to find some extra time in the morning. If you work better at night, do it the night time. The main point is to find the time where you can be at your best and carry out focused work!
 
 Besides being at your best, find the time when you can do uninterrupted work. It's super important to find a time when you're less likely to be interrupted. The more other people/distractions interrupt you, the less work you'll be able to do.
@@ -63,7 +63,7 @@ Thus:
 * find a time when you work at your best
 * try to do uninterrupted work
 
-# 4. Create a list of tasks and a journal
+## 4. Create a list of tasks and a journal
 Unloading your brain is one of the best things that you can do for yourself. Trying to keep everything in your head can make you stressed, and you are more likely to forget information.
 
 You can make use of applications like Notion to take notes and unload your brain. In my case, I use Notion because it has more features and is, therefore, more practical. With Notion, you can use templates to create logs, task lists, and more.
@@ -72,7 +72,7 @@ With that being said, I always note everything in my journals and task lists. Th
 
 Therefore, I recommend you to keep a journal or/and a task list. Note everything there to empty your brain.
 
-# 5. Up your time-management skills
+## 5. Up your time-management skills
 Time-management skills are essential, primarily when you work remotely. The first thing you can do to improve your time-management skills is to prioritise tasks. You could prioritise the tasks as follows:
 1. **high-importance tasks** - the tasks you should do first because they are the most difficult and/or have a high impact
 2. **medium-importance tasks** - tasks that are less important than *high-importance tasks* but more important than *low-importance tasks*
@@ -90,7 +90,7 @@ Thus, you can improve your time-management skills as follows:
 * scrap multi-tasking and focus on one task at a time
 * create a list of tasks and a journal
 
-# Conclusion
+## Conclusion
 These are the top five pillars of remote working in my life. These tips help me stay sane and harness its full power.
 
 Of course, the list is not exhaustive, which means I am keen to hear your remote working tips. If you have any, leave them in the comments!
