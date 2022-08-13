@@ -9,7 +9,7 @@ There are a few scenarios where you might want to use Vue without installing it.
 
 ---
 
-# Vue CDN Link
+## Vue CDN Link
 There are two ways to use the Vue with the CDN link. 
 
 If you want to use Vue for **learning purposes** or to **quickly prototype** an application, use the following link:
@@ -44,7 +44,7 @@ You can do so by using the following link:
 
 ---
 
-# Conclusion
+## Conclusion
 
 These are the two ways you can use Vue without installing it. However, I would recommend installing it through npm or yarn if you want to build a Vue application.
 
