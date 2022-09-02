@@ -4,7 +4,7 @@ In this article, you will learn about the Vue **C**ommand **L**ine **I**nterface
 
 Vue CLI allows you to create pre-configured Vue projects. Also, if you prefer graphical user interfaces, you can use the Vue GUI to create and configure your projects.
 
-# Prerequisities
+# Prerequisites
 Before following the tutorial, you should have basic knowledge about terminals and Vue. Additionally, you should have Vue installed on your machine. You can check whether you have Vue installed or not by running either of the two commands:
 
 ```
