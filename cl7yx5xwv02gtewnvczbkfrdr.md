@@ -172,7 +172,7 @@ Inspiring from others is fine, and everyone is doing it to a certain degree, but
 
 ## Summary
 
-Creating content is a beautiful activity that can bring many benefits. But also have some serious drawbacks. My hope is that this article helps you avoid the common pitfalls so you can create content in a healthy way.
+Creating content is a beautiful activity that can bring many benefits. But it also has drawbacks. My hope is that this article helps you avoid the common pitfalls so you can create content in a healthy way.
 
 If you wish to start creating content:
 * find your why
