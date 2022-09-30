@@ -14,7 +14,7 @@ Without further ado, let's start configuring your Notion workspace.
 
 ---
 
-# Create integrations in Notion
+## Create integrations in Notion
 
 Go to your [Notion integrations](https://www.notion.com/my-integrations) and create a new integration by clicking on the "+ New Integration" button. After that, you will be prompted to fill three fields:
 
@@ -39,7 +39,7 @@ For a **more in-depth** tutorial about creating Notion integrations, I recommend
 
 ---
 
-# Share your Notion pages
+## Share your Notion pages
 
 The last step is to share whatever page you wish with the newly-created integration. Go to your Notion account, and choose any page you want.
 
@@ -61,7 +61,7 @@ That's all you need to do when it comes to configuring Notion, so well done! You
 
 ---
 
-# Configure the Node.js project
+## Configure the Node.js project
 You need to use the Notion SDK for JavaScript to interact with the Notion API in your Node.js application. The Notion SDK is a client for the Notion API, and you can find more about it on its [GitHub repository](https://github.com/makenotion/notion-sdk-js).
 
 The first step is to create the application structure. Create a new folder and initialize the application as follows:
@@ -130,7 +130,7 @@ Now you are ready to build the application!
 
 ---
 
-# Configure Notion in the application
+## Configure Notion in the application
 
 It's time to configure the Notion client so you can use it to manipulate data. Go into the following file `src/notion/client.js` and add the following code:
 
@@ -202,7 +202,7 @@ You finished configuring the Notion client in your project. The next step is to 
 
 ---
 
-# Add FastifyJS
+## Add FastifyJS
 
 Open the file `app.js` and import FastifyJS at the top of the file.
 
@@ -251,7 +251,7 @@ PORT=3333
 
 ---
 
-# Build the routes
+## Build the routes
 
 The next step is to create the routes. Their purpose is to allow people to perform CRUD operations (*except deleting data in this tutorial*).
 
@@ -357,7 +357,7 @@ Also, you might've noticed that there is no "delete" route. That is because the 
 
 ---
 
-# Add the business logic
+## Add the business logic
 
 The last step of the tutorial is to build the business logic. The business logic specifies what happens when a certain HTTP request is made to a specific endpoint.
 
@@ -369,7 +369,7 @@ const { notion } = require('../notion/client');
 
 Now, you can use the client to manipulate data.
 
-## Retrieve all job applications
+### Retrieve all job applications
 
 The first method you write is the one that returns all the job applications. Write the following code in `controllers.js`:
 
@@ -459,7 +459,7 @@ Figure 7
 
 Figure 7 illustrates what happens after making the request. You can see it returns an array of objects, exactly how you structured them in the method `getAllApplications`.
 
-## Get a specific application
+### Get a specific application
 
 The next step is to add the business logic for retrieving only a specific job application. This time, you use different methods. Rather than querying a database, you retrieve a specific page.
 
@@ -494,7 +494,7 @@ Figure 8
 
 Figure 8 illustrates that it returns the custom page object you defined in the method `getApplication`.
 
-## Filter applications
+### Filter applications
 
 The Notion client allows you to filter the data as well. For example, you might want to filter the results by the company name. Thus, you can pass the company name in the URL, and it will only return the job applications for that company.
 
@@ -541,7 +541,7 @@ Figure 9
 
 Figure 9 illustrates a `GET` request to `http://localhost:3333/job/applications/filter?company=Notion`. You can see that it return only the records that match `?company=Notion`. That is all the Notion job applications.
 
-## Add a new application
+### Add a new application
 
 So far, you can:
 - retrieve and display all the job applications
@@ -626,7 +626,7 @@ Figure 10 illustrates the POST request made to the URL `http://localhost:3333/jo
 > ![Make a POST request using the Notion API](https://cdn.hashnode.com/res/hashnode/image/upload/v1622094685647/k_wy6ONkL.png)
 Figure 10
 
-## Update existing application
+### Update existing application
 
 Updating an existing job application is very similar to adding a new one. There are two main differences:
 * you use the **update** method
@@ -709,7 +709,7 @@ Figure 11
 
 Thus, this is how you can update your existing job applications programmatically.
 
-## Export the controllers
+### Export the controllers
 
 Before you can use the controllers, you need to export them. The reason why you need to export them is that you use them in the `routes.js` file.
 
@@ -731,7 +731,7 @@ Now you can run the application and play with it!
 
 ---
 
-# How to run the application
+## How to run the application
 
 You can start the application by running `node app.js` in the root folder.
 
@@ -746,7 +746,7 @@ node app.js
 
 ---
 
-# Conclusion
+## Conclusion
 
 This the end of the tutorial! You build a Node.js API that allows you to:
 1. Create and update job applications
