@@ -1,9 +1,8 @@
 ## 6 Resources To Learn Vue.js As A Beginner
 
-In this article, I want to show you the five resources I used to learn Vue.js as a complete beginner. Some of the resources are free, whereas some are paid.
+In this article, I want to show you the six resources I used to learn Vue.js as a complete beginner. Some of the resources are free, whereas some are paid.
 
-
-# 1. [Vue Mastery](https://www.vuemastery.com/)
+## 1. [Vue Mastery](https://www.vuemastery.com/)
 Vue Mastery is an online learning platform that produces weekly lessons about Vue, and it has both free and premium content. The lessons or tutorials are both in video and article format. Thus, you can choose the format you like most.
 
 The lessons are taught by professional engineers with years of experience in the industry. Moreover, you can find tutorials from the members of the Vue core team. 
@@ -24,7 +23,7 @@ With that being said, I recommend Vue Mastery if you want to learn Vue.
 
 ---
 
-# 2. [Official Documentation](https://v3.vuejs.org)
+## 2. [Official Documentation](https://v3.vuejs.org)
 
 The official documentation is often overlooked when it comes to technologies, programming languages, and so on. However, in some cases, the documentation is more than enough to learn about the tool.
 
@@ -36,7 +35,7 @@ With that being said, I highly recommend it. Even if you do not use it as your p
 
 ---
 
-# 3. [Complete Vue Developer](https://academy.zerotomastery.io/p/learn-vue-js?affcode=441520_zj_tadya)
+## 3. [Complete Vue Developer](https://academy.zerotomastery.io/p/learn-vue-js?affcode=441520_zj_tadya)
 
 The Zero to Mastery brand release courses of great quality, and the Vue.js course is no exception. It's one of the most comprehensive courses, and you can convince yourself by looking at the subjects covered.
 
@@ -59,7 +58,7 @@ Lastly, I trust and appreciate the quality of their courses so much that I accep
 
 ---
 
-# 4. [Vue School](https://vueschool.io/)
+## 4. [Vue School](https://vueschool.io/)
 
 Vue School is another great resource for learning Vue. It has 28 courses, 449 lessons and 34 hours worth of content. The lessons are taught by professional developers and industry experts.
 
@@ -74,7 +73,7 @@ This categorisation makes it very easy to start from the ground and learn your w
 
 ---
 
-# 5. [Brad Traversy's Vue Course](https://youtu.be/qZXt1Aom3Cs)
+## 5. [Brad Traversy's Vue Course](https://youtu.be/qZXt1Aom3Cs)
 
 I got my first taste of Vue from Brad's course, which is an excellent free course. This VueJS crash course covers all the basic concepts you need to get started with Vue.
 
@@ -92,7 +91,7 @@ If you are wondering which resource to choose first, I recommend this course. By
 
 ---
 
-# 6. [Net Ninja's Vue Course](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
+## 6. [Net Ninja's Vue Course](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 Lastly, we have this great free course by Shaun Pelling, known as the Net Ninja. Even though it's not too comprehensive, it's a great starting point. There are 12 lessons, and you learn about:
 
@@ -109,7 +108,7 @@ With that being said, the free course is a great starting point, and I highly re
 
 ---
 
-# Conclusion
+## Conclusion
 
 These are all the resources I used to learn Vue.js and even Nuxt. Each resource is great on its own, and they are even more powerful when you use them together.
 
