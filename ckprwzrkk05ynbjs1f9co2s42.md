@@ -14,7 +14,7 @@ This article teaches you the most common and useful `fs` methods. So, without fu
 
 ---
 
-# How to use `fs`
+## How to use `fs`
 
 The file system module is a core Node.js module. That means that you do not have to install it. The only thing you have to do is to import the `fs` module into your file. 
  
@@ -58,7 +58,7 @@ As a result, this tutorial uses the asynchronous methods from the file system mo
 
 ---
 
-# Write to a file
+## Write to a file
 
 The first thing you learn is how to write to a file. To write to a file from your Node.js application, you use the method `writeFile`.
 
@@ -93,7 +93,7 @@ There are other variants of "writeFile" such as:
 
 ---
 
-# Read from a file
+## Read from a file
 
 Before you read from a file, you need to create and store the path to the file. Here is where the `path` module comes in handy.
 
@@ -131,7 +131,7 @@ There are other variants of "readFile" such as:
 
 ---
 
-# Read a directory's content
+## Read a directory's content
 
 Displaying the files inside a directory is quite similar to reading the content of a file. 
 But, instead of passing the file path, you pass the current working directory *(you can pass any other directory)*.
@@ -154,7 +154,7 @@ If you run the application, you should get an array with all the files in your d
 
 ---
 
-# Delete a file
+## Delete a file
 
 The file system module has a method that allows you to delete files. However, it's important to note that it only works for files and not for directories.
 
@@ -174,7 +174,7 @@ If you rerun the code, your file should be deleted!
 
 ---
 
-# Create a directory
+## Create a directory
 
 You can create a directory asynchronously by using the `mkdir` method. Write the following piece of code in your file:
 
@@ -212,7 +212,7 @@ On the other hand, if you want to create **only one** folder, you can leave it t
 
 ---
 
-# Delete a directory
+## Delete a directory
 
 The logic to delete a directory is similar to creating one. If you look at the code you wrote to create a directory and the one below, you will see similarities.
 
@@ -251,7 +251,7 @@ It's important to know when to use the `recursive` option and when not to avoid 
 
 ---
 
-# Rename
+## Rename
 
 Using the `fs` module, you can rename both directories and files. The code snippet below shows how you can do it with the `rename` method.
 
@@ -284,7 +284,7 @@ It's important **to note** that if the new path already exists *(e.g. the new na
 
 ---
 
-# Add content to file
+## Add content to file
 
 With the file system module, you can also add new content to an existing file. The method `appendFile` allows you to do that.
 
@@ -304,7 +304,7 @@ The code snippet above illustrates how you can add new content to an existing fi
 
 ---
 
-# Conclusion
+## Conclusion
 
 If you are reading this, it means that now you can:
 * create files and directories
