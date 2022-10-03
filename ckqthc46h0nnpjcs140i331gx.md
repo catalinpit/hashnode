@@ -15,7 +15,7 @@ Without further ado, let's start building the application!
 
 ---
 
-# About GraphCMS
+## About GraphCMS
 
 GraphCMS is the first GraphQL native Headless CMS. It aims to eliminate the pain points of traditional content management by leveraging the power of GraphQL.
 
@@ -32,7 +32,7 @@ These are just a handful of features to convince you of its power. However, you 
 
 ---
 
-# Create a GraphCMS account
+## Create a GraphCMS account
 
 The first step of the tutorial is to create a GraphCMS account, so you can use it. 
 
@@ -65,7 +65,7 @@ Thus, the next step is to create and configure the voting application for tech c
 
 ---
 
-# Project structure
+## Project structure
 
 The project stores courses in tech alongside their authors. Thus, you will have two models:
 * a model for courses
@@ -115,7 +115,7 @@ Let's move onto the next step, which is creating the models.
 
 ---
 
-# Create the models
+## Create the models
 
 The next step is to create the models. When you create the models, you describe how your data is structured. For instance, you need a schema for courses and one for authors.
 
@@ -158,7 +158,7 @@ The next step is to configure the models by adding fields.
 
 ---
 
-# Configure the Course model
+## Configure the Course model
 
 Once the model is created, you need to add the fields. The fields describe what you store about courses. For instance, you would need a name and a description at the minimum.
 
@@ -182,7 +182,7 @@ If you look at figure 13 above, you can see that you can select fields from the 
 
 And many more.
 
-## Name field
+### Name field
 
 Let's start by adding the name field. Start by clicking on the "single line text" field. Once you click on that field, a new box will appear, which you can see in figure 14.
 
@@ -200,7 +200,7 @@ Before moving on, go to the *"Validations"* tab and make the field required. Tha
 
 Once you finish configuring the `name` field, click on the "Create" button. After you create the field, you should see it in your dashboard.
 
-## Description Field
+### Description Field
 
 The next step is to create the description field. Since the description is more complex than the `name` field, let's choose the "Markdown" field.
 
@@ -220,7 +220,7 @@ See figure 17, which illustrates the validations.
 
 Now click the button to create the field. At this point, you should have two fields, and you should see them in your dashboard.
 
-## Vote field
+### Vote field
 
 The `Vote` field is of type number. Thus, go to the right-hand side and click on the "Number" field.
 
@@ -238,7 +238,7 @@ Now go to the "Advanced" tab and check the option saying *"Set initial value"*. 
 
 Create the field, and it should appear in the dashboard.
 
-## URL field
+### URL field
 
 For the URL field, you can simply use the *"Single line text"* field. Figure 20 shows the basic configuration for the URL field. It follows the same pattern as the other fields.
 
@@ -263,7 +263,7 @@ Before configuring the "author" field and creating the relationship, let's confi
 
 ---
 
-# Configure the Author model
+## Configure the Author model
 
 For the author model, you might be interested in the following fields:
 * full name
@@ -324,7 +324,7 @@ Now that you have both models configured, it's time to create a relationship bet
 
 ---
 
-# Create the relationship
+## Create the relationship
 
 Before you can use the application, the last step is to create the many-to-many relationship between the `Course` and `Author` models. To recap, a course can have multiple authors, and authors can have multiple courses.
 
@@ -351,7 +351,7 @@ Lastly, press the "Create" button to create the relationship. As you can see in 
 
 ---
 
-# Add content
+## Add content
 
 Before you can test and use the application, you need to add content.
 
@@ -409,7 +409,7 @@ Now that you are done with creating and configuring the application, you can pla
 
 ---
 
-# Query and mutate data
+## Query and mutate data
 
 GraphCMS has an integrated GraphQL playground. That means you can read and edit existing data or add new data.
 
@@ -525,7 +525,7 @@ The next step is to set the access to the API so you can use it from your fronte
 
 ---
 
-# Set the API access
+## Set the API access
 
 According to the [GraphCMS documentation](https://graphcms.com/docs/authorization#public-api-permissions), "queries and mutations by default require a Permanent Auth Token token".
 
@@ -607,7 +607,7 @@ Now that you have an endpoint and the permissions set up, you are ready to build
 
 ---
 
-# How to get your endpoint and auth token
+## How to get your endpoint and auth token
 
 This is the last step before building the frontend, I promise. In this step, you will gather all the information needed, such as:
 * the endpoint
@@ -634,7 +634,7 @@ Now that you have the `endpoint` and `auth token`, you can use the GraphCMS appl
 
 ---
 
-# Create and configure Nuxt Application
+## Create and configure Nuxt Application
 
 For the frontend, you will use Nuxt.js, which is a Vue framework. If you want to read more about it or see its benefits, check [their official website](https://nuxtjs.org).
 
@@ -1253,7 +1253,7 @@ Below, you can see the code for the footer (*it uses SVGs for the icons*):
 
 ---
 
-# Build the homepage
+## Build the homepage
 
 As usual, let's take the homepage and split it into two parts. The homepage lives in the `pages` directory, and it's called `index.js`.
 
@@ -1318,7 +1318,7 @@ The next step is to create an individual page for each course. On the page, you 
 
 ---
 
-# Create the individual course page
+## Create the individual course page
 
 The last step of the tutorial is to build the individual page for each course. The individual page shows more information about the course and author or authors.
 
@@ -1415,7 +1415,7 @@ And you are done!
 
 ---
 
-# Conclusion
+## Conclusion
 
 Well done for building the application! Now you can store tech courses and allow people to vote them.
 
