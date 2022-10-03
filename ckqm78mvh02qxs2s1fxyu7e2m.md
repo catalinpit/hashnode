@@ -10,7 +10,7 @@ These two are some of the questions I have seen online for a long time. However,
 
 Thus, in this article, you will see an overview of GitHub Copilot and my thoughts about it.
 
-# What is GitHub Copilot?
+## What is GitHub Copilot?
 
 According to GitHub, their Copilot application is an artificial intelligence pair programmer that "helps you write code faster and with less work".
 
@@ -28,7 +28,7 @@ The video shows an example I created earlier. It's important to remember that I 
 
 I would say it's scary and fascinating at the same time! I am highly impressed with it. So, the question is...
 
-# Will Artificial Intelligence Replace Developers?
+## Will Artificial Intelligence Replace Developers?
 
 Even though applications like the Copilot are helpful and super powerful, I still believe we are far from being replaced by them.
 
@@ -59,7 +59,7 @@ The article only scratches the surface, but there are other things to take into 
 
 And many more.
 
-# Conclusion
+## Conclusion
 
 In my opinion, I do not think any AI application will replace developers soon. I rather see these applications as an extra tool that helps us write code quicker. I see them as time-saving tools.
 
