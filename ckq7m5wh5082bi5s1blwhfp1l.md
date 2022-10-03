@@ -12,7 +12,7 @@ The technologies used in this tutorial are as follows:
 
 ---
 
-# Create the project structure
+## Create the project structure
 
 The first step is to create the project structure. For the moment, you need:
 * the overall folder including all files
@@ -31,7 +31,7 @@ Now the next step is to run MySQL.
 
 ---
 
-# Run MySQL with Docker
+## Run MySQL with Docker
 
 To avoid inconsistencies and installing new stuff on your machine, you will use the official Docker image for MySQL.
 
@@ -65,7 +65,7 @@ Now you can run MySQL commands and play around with the database. Also, you are 
 
 ---
 
-# Initialize the project and install dependencies
+## Initialize the project and install dependencies
 
 The next step is to initialize your Node.js project and install the required dependencies. You can initialize the project with the following command:
 
@@ -91,7 +91,7 @@ Thus, you are ready to build the application!
 
 ---
 
-# Build the application
+## Build the application
 
 The first step is to open the file `index.js` and import the packages. Thus, add the following imports at the top of the file:
 
@@ -128,7 +128,7 @@ Now you can use the database to create tables, add, edit, remove data and other 
 
 ---
 
-# Initialize the database
+## Initialize the database
 
 The first step is to initialize the database by creating a new table. You need a table to store people's emails.
 
@@ -155,7 +155,7 @@ Once the table is created, you can collect email addresses from people. Thus, le
 
 ---
 
-# Add emails
+## Add emails
 
 One of the most important parts of the application is to allow people to subscribe to your services/newsletter. You can do so by writing the following piece code in `index.js`:
 
@@ -205,7 +205,7 @@ Therefore, the endpoint works correctly. People can subscribe to your email/serv
 
 ---
 
-# Get all emails
+## Get all emails
 
 Lastly, you need a route to get a list with all the email addresses collected. Thus, add the following code in `index.js`:
 
@@ -236,7 +236,7 @@ Thus, with this route, you can see all the people that subscribed using your app
 
 ---
 
-# Clean the application
+## Clean the application
 
 Before finishing, you could improve the application by reorganising the code. Even though it might be overkill for a small application like this one, it helps when it grows larger.
 
@@ -380,7 +380,7 @@ You finished with the refactoring!
 
 ---
 
-# Run the code
+## Run the code
 
 To run the application, go into the root of the application and run the following command:
 
