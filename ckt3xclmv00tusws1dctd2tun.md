@@ -8,8 +8,6 @@ Thus, in this article, I want to discuss how I received the role and what it's l
 
 ## Why am I writing this article 
 
-<center>![A vector illustration of a smartphone](https://cdn.hashnode.com/res/hashnode/image/upload/v1630646817800/iyb97PpfS.png?w=300&h=300)</center>
-
 First of all, I received the job by putting my work online and by networking. Thus, I want to show the power of social media. Secondly, many people asked me about what it's like to work as a Developer Advocate. So, I want to share my experience with them.
 
 Is this a promotional article? Absolutely not. I do not promote Hashnode because I work there. **I work at Hashnode because I love the product.** Whether I work at Hashnode or not, it does not change how I feel about Hashnode, the blogging platform. First and foremost, I am a Hashnode fan before being an employee.
@@ -44,8 +42,6 @@ Ok, so back to the journey.
 
 ## Did I get a job by opening a Hashnode blog?
 
-<center>![A vector illustration of a person sitting at the desk](https://cdn.hashnode.com/res/hashnode/image/upload/v1630646406865/FEvS9Pr_8.png?w=350&h=350)</center>
-
 That would have been nice, but it does not work that way, unfortunately. Opening a Hashnode blog was the catalyst but not the reason.
 
 So, how did it happen? Since I was excited and happy with the blogging platform, I started talking about it extensively and recommending it to others. I created blog articles and videos about it. I spoke with people and convinced them to join it. 
@@ -61,8 +57,6 @@ Six months later, here I am, writing this article! I moved my blog to Hashnode i
 ---
 
 ## My role as a Developer Advocate
-
-<center>![A vector illustration of a person pointing at the browser](https://cdn.hashnode.com/res/hashnode/image/upload/v1630646603677/-qpQTS_BW.png?w=350&h=350)</center>
 
 First of all, let's briefly talk about the role in general. Developer Advocates are the bridge between the users and the company, and they advocate for the users' best interest. You want people using your product to be happy with it!
 
@@ -101,5 +95,3 @@ With that being said, it's important to note that the above explanations are my 
 This is how my journey to Hashnode looks like. Thanks to having an online presence, I was able to get a great job at a cool company!
 
 If you have any questions about my journey or my job, feel free to leave them in the replies! 
-
-> By the way, if you want to take your online presence seriously, check [this ebook](https://catalinpit.gumroad.com/#hClRKQ).
