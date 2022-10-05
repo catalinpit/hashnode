@@ -266,6 +266,4 @@ In this article, you learnt the basic Git workflow required to make open-source 
 
 Also, remember that contributing to open source is not only about writing code. You can contribute to open-source in other ways as well.
 
-> Are you ready to contribute? Start opening your first pull request for [the documentation](https://github.com/Hashnode/support)! Also, feel free to create a [Hashnode account](https://hashnode.com?source=OSSArt) and let us know about your progress!
-
 *Do you want to make Open-Source contributions to other projects? Learn [how to find Open Source projects to contribute](https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner).*
