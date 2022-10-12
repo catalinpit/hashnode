@@ -1,10 +1,8 @@
-## Attribute Binding In Vue JS
+# Attribute Binding In Vue JS
 
 In this article, you will learn about the concept of attribute binding. That is, you will learn how to use dynamic values rather than hardcoded values for attributes.
 
----
-
-# Attribute binding
+## Attribute binding
 
 First of all, you need to create a Vue instance and add three properties:
 - a product name
@@ -26,8 +24,6 @@ const app = Vue.createApp({
 ```
 
 Thus, instead of using hardcoded values, you can use dynamic values by using the properties specified in the Vue instance. 
-
----
 
 Below you can see an `<img/>` HTML element. If you pay attention, you can see that the `src` and `alt` attributes use the properties from the Vue instance.
 
@@ -53,7 +49,7 @@ When you see an example of attribute binding such as `:src="imgURL"`, you can th
 
 ---
 
-# Conclusion
+## Conclusion
 
 If you open your application, you should see the following image.
 
