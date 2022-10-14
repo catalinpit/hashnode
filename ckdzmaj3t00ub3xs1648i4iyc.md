@@ -1,4 +1,4 @@
-## What To Look For When Searching For A Developer Job
+# What To Look For When Searching For A Developer Job
 
 Surprisingly, the salary is not the most important thing; for me, at least. I do not know about you, but I would rather earn less but have other perks. And no, I am not talking about ping-pong tables, free coffee, and other useless perks. 
 
