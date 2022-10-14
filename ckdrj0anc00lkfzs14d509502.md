@@ -1,4 +1,4 @@
-## Build An Audience Online - How To Build It?
+# Build An Audience Online - How To Build It?
 
 How to build an audience online? It is a question I used to ask myself, and you might ask yourself too. It might even look daunting at first, and you might ask yourself "who would listen to me? I am no expert in anything". On the same note, you might fear what other people think about the content you publish.
 
@@ -10,7 +10,7 @@ Therefore, building an audience online should not be so daunting, and in this ar
 * Having a blog or a YouTube channel or a podcast
 * Maintaining a mailing list
 
-### Why bother to build an audience? 
+## Why bother to build an audience? 
 
 First of all, if you want to start freelancing, building a name for yourself is a must. How else can clients find you? Besides that, you can get lots of opportunities, such as: 
 
@@ -28,7 +28,7 @@ First of all, if you want to start freelancing, building a name for yourself is 
 
 You might ask "did YOU get any of these opportunities?". The answer is yes, I had all these opportunities come my way except number 1.
 
-# Be active on social media
+## Be active on social media
 
 The first step in building an audience online is to be more active on social media platforms. You have to experiment with each platform and see which one works for you. However, if you ask for my opinion, I would recommend Twitter as a starter. You might ask "why Twitter?". The reasons why I recommend Twitter are because:
 
@@ -59,7 +59,7 @@ On the same note, reputation is very important in a community. If you provide va
 
 Another important note is to be aware of what you do on the internet. Potential employers, and people in general, can get a sense of what you are as a person. If you engage in fights and in negative stuff, you can damage your image and your career. Social media can make or break you, depending on how you use it.
 
-# Start a blog
+## Start a blog
 
 Now that you have an audience, you can start a blog or a video channel, if you did not already. However, we know that the beginnings are hard and not many people read or watch your material, even though you might have an audience. 
 
@@ -83,7 +83,7 @@ Therefore, what did you learn in this section?
 * You can blog about issues you solve or things you learn
 * Make sure you provide up-to-date and accurate information
 
-# Build a mailing list
+## Build a mailing list
 
 Mailing list and blogs go hand in hand. If you look to build an audience online, a mailing list is a must. The essential reason why a newsletter is a must is that you have total control over it. Besides that, you also build a closer relationship with your audience.
 
@@ -100,7 +100,7 @@ What are the takeaway points from this section?
 * Do not spam and abuse your subscribers
 * Use ConvertKit or Substack, depending on your budget
 
-# Conclusion
+## Conclusion
 
 This is the end. I hope this article gives you an idea of how to build an audience online. The main takeaway points from this article are:
 
