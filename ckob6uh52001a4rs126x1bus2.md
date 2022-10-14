@@ -1,10 +1,10 @@
-## Hashnode API - How To Display Your Blog Articles On Your Portfolio Page
+# Hashnode API - How To Display Your Blog Articles On Your Portfolio Page
 
 Hashnode has an API that you can use however you please. Using the API, you can retrieve, create, edit and delete articles. Additionally, you can manipulate replies and reactions.
 
 As a result, you can use the API to display your blog articles in other places like your personal portfolio, for example.
 
-# Pre-requisites
+## Pre-requisites
 There is some stuff you should be familiar with before you continue. The article shows how to use the Hashnode API, but it does not teach you about the underlying technologies.
 
 To follow the tutorial and implement the application, you should have basic knowledge about:
@@ -14,14 +14,12 @@ To follow the tutorial and implement the application, you should have basic know
 
 Besides that, you should have a [Hashnode](https://hashnode.com) account. Without further ado, let's jump straight in!
 
----
-
-# Get started with the Hashnode API
+## Get started with the Hashnode API
 You can visit the [API Playground](https://api.hashnode.com/) and see the docs and schema available. If you are not familiar with GraphQL, the `docs` specifies the queries and mutations you can perform on the data. On the other hand, the `schema` is a description of the data. That is, it specifies what fields you can select, what object they return and so on.
 
 Before moving further, I advise you to give it a go and play a bit with it.
 
-> ![Hashnode API GraphQL Playground](https://cdn.hashnode.com/res/hashnode/image/upload/v1618393360169/K7P9DJR0k.png)
+![Hashnode API GraphQL Playground](https://cdn.hashnode.com/res/hashnode/image/upload/v1618393360169/K7P9DJR0k.png)
 Figure 1
 
 In figure 1, above, you can see a simple query pulling all the featured stories from the first page. The query is as follows:
@@ -54,21 +52,17 @@ However, you can pull the articles of a specific user as well. Let's take my use
 
 **Note**: Even though in both queries I selected only the `title`, `brief` and `slug` you can select more fields. As mentioned previously, **check the docs and schema** to see what queries/mutation you can perform and what are the available fields.
 
----
-
-# Authentication - Hashnode personal access token
+## Authentication - Hashnode personal access token
 Some queries and mutations require authentication, which is based on personal access tokens. You can get your PAT (personal access token) from the [developer settings](https://hashnode.com/settings/developer).
 
-> ![Hashnode Developer Settings - Personal Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1618394844659/wgP4Iykp8.png)
+![Hashnode Developer Settings - Personal Access Token](https://cdn.hashnode.com/res/hashnode/image/upload/v1618394844659/wgP4Iykp8.png)
 Figure 2
 
 You can get a new PAT by clicking on the button saying `Generate New Token`. After you get the token, you can use it with the `Authorization` HTTP header where the token is the value.
 
 It's important to note that you can use the Hashnode API without the token. However, there are some queries and mutation where you need the token. With that being said, let's move onto the next step.
 
----
-
-# Fetch your articles
+## Fetch your articles
 Let's create a Vanilla JavaScript application that you will use to fetch your Hashnode articles. The first step is to create two files. Create a file called `index.html` and another one called `app.js`.
 
 After creating the files, open the HTML file, `index.html`, and write the following code:
@@ -169,7 +163,7 @@ gql(GET_USER_ARTICLES, { page: 0 })
 
 What about `result.data.user.publication.posts` from the third line? Let's look at figure 1 below.
 
-> ![API response example](https://cdn.hashnode.com/res/hashnode/image/upload/v1620200087165/B-lpvyeSj.png)
+![API response example](https://cdn.hashnode.com/res/hashnode/image/upload/v1620200087165/B-lpvyeSj.png)
 Figure 1
 
 If you look at figure 1, you can see that the `gql` function returns an object called "data". The "data" object returns a "user" object. The "user" returns the "publication" object. And lastly, the "publication" returns the "posts" array. **Thus**, with the line `result.data.user.publication.posts` you access only your blog articles. 
@@ -192,14 +186,12 @@ With the following code, you create a `div` that will hold your application. Ins
 
 If you visit your HTML page now, you should see the following:
 
-> ![Hashnode API GET request to fetch your blog articles](https://cdn.hashnode.com/res/hashnode/image/upload/v1620201281592/I3HI7_mbg.png)
+![Hashnode API GET request to fetch your blog articles](https://cdn.hashnode.com/res/hashnode/image/upload/v1620201281592/I3HI7_mbg.png)
 Figure 2
 
 **Note**: Your web page might differ because you (should have) used your username. You should have different articles and header.
 
----
-
-# Conclusion
+## Conclusion
 Thus, you can display the articles from your Hashnode blog by using the API. 
 
 In this article, you can see a basic example of fetching your articles. However, you can do much more with the API. You can:
