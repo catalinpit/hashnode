@@ -1,12 +1,12 @@
-## I Migrated My Blog From WordPress To Hashnode
+# I Migrated My Blog From WordPress To Hashnode
 
 If you are following me on Twitter, chances are you already know I migrated my blog from WordPress to Hashnode. The tweet below shows my announcement of moving to Hahshnode:
 
-%[https://twitter.com/catalinmpit/status/1293569954118340609]
+https://twitter.com/catalinmpit/status/1293569954118340609
 
 Therefore, in this article, I want to shine some light on why I chose to leave WordPress, and become part of the @[Hashnode](@hashnode) community.
 
-# Why moving away from WordPress?
+## Why moving away from WordPress?
 As you might know, or not, I am a big fan of WordPress. The reasons are that:
 * it is easy to use
 * it is free
@@ -28,9 +28,9 @@ Thus, to add a snippet of code, I need to follow seven steps. Now let us say I h
 
 Anyway, the above is just an example to show you laborious some tasks can be in WordPress. I decided enough is enough, and I started to look for alternatives, as shown by the tweet below. 
 
-%[https://twitter.com/catalinmpit/status/1293486413099540486]
+https://twitter.com/catalinmpit/status/1293486413099540486
 
-# What Is The Best Alternative?
+## What Is The Best Alternative?
 I believe there is not the best alternative because everyone has different needs and use cases. However, for my use case, I had to choose between:
 1. Hashnode
 2. Gatsby + MDX
@@ -53,5 +53,5 @@ Other reasons why I prefer Hashnode:
 
 In conclusion, these are the reasons why I choose to use and become part of the Hashnode community. If you have other good reasons, feel free to drop them in the comments.
 
-# Conclusion
+## Conclusion
 I hope the article makes it clear why I chose Hashnode and why it can be an excellent choice for anyone. I want to emphasise again that I did not get paid to move to Hashnode or write this article. 
