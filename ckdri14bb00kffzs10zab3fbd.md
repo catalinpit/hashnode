@@ -1,4 +1,4 @@
-## How To Setup A Budget On AWS
+# How To Setup A Budget On AWS
 
 Unfortunately, it is very easy to over-spend money in AWS, and you do not want that. Your costs can quickly spiral to thousands of dollars. 
 
@@ -6,7 +6,7 @@ Therefore, the first step I advise people to do after creating an AWS account is
 
 As a result, in this article, I am going to show you how to set a budget on AWS.
 
-# Login to your account
+## Login to your account
 The first step is to log into your account. Once you are logged in, click on your name and a list should appear. Figure 1 illustrates an example from my account.
 
 ![AWS Account List](https://dev-to-uploads.s3.amazonaws.com/i/a1nenvv5lthdhsi69io2.png)
@@ -14,7 +14,7 @@ The first step is to log into your account. Once you are logged in, click on you
 
 Once you can see the list, click on `My Billing Dashboard`, which takes you to another page.
 
-# Billing & Cost Management Page
+## Billing & Cost Management Page
 At this point, you should be on the Billing & Cost Management page. Figure 2 illustrates the top of the page. The image is cropped to show only the important information. 
 
 ![Billing & Cost Management Page](https://dev-to-uploads.s3.amazonaws.com/i/h8uxhh654rvt4hrqzdbf.png)
@@ -24,7 +24,7 @@ On the left side of the page, you should see an option called `Budgets`. Click o
 
 The new page is called `AWS Budgets` and you should see a blue button on the right-hand side saying "Create budget". Click the button to create a new budget. 
 
-# Create a budget
+## Create a budget
 After you click the "Create budget" button, you are prompted to choose between different types of budgets. You can see the different types of budgets in figure 3.
 
 ![Types of budgets](https://dev-to-uploads.s3.amazonaws.com/i/jtz1vpe2cbb6f3kr9mi4.png)
@@ -32,7 +32,7 @@ After you click the "Create budget" button, you are prompted to choose between d
 
 For this article, we are creating a `cost budget`, because we want to stay under a specific sum and receive alerts when particular thresholds are met. Therefore, select the first option, and click the button saying "Set your budget".
 
-#### Set up the budget
+### Set up the budget
 After you click the button, you are taken to another web page where you can set the:
 
 * name of your budget
@@ -46,7 +46,7 @@ After you click the button, you are taken to another web page where you can set 
 
 Figure 4 illustrates an example from my account. I want to make sure I do not spend more than ten dollars. You are free to use any sum, though. If you do not want to pay anything, add 0.01 dollars. You cannot add a zero, so we use the lowest amount, which is 0.01.
 
-#### Configure the alerts
+### Configure the alerts
 Once you filled all the fields, click on the button saying "Configure alerts". You are going to see a new page, like in Figure 5. 
 
 
@@ -59,7 +59,7 @@ Also, you can choose an alert threshold, so you get an email when the threshold 
 
 The last steps are to enter an email address where you get the budget alerts and to confirm your budget. Once you do that, you have a budget set up. 
 
-# Conclusion
+## Conclusion
 Congratulations! You just set up a budget alarm for your account. It is essential to create one, so you do not end up over-spending money. 
 
 Feel free to change the settings to fit your needs and budget. If you want a smaller/bigger budget, adjust it accordingly. However, if you plan on getting familiar with AWS, I would follow the examples from this article.
