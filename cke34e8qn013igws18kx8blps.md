@@ -1,4 +1,4 @@
-## Frontend Masters Membership - Is It Worth It?
+# Frontend Masters Membership - Is It Worth It?
 
 First of all, I want to specify that I do not have any affiliation with them, and I do not benefit from anything by sharing my thoughts. I want to share my opinion on this platform for people that have not yet tried their services.
 
