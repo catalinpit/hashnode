@@ -1,4 +1,4 @@
-## The Best 10 MySQL GUI Clients for Mac OS X
+# The Best 10 MySQL GUI Clients for Mac OS X
 
 MySQL is a widely used, open-source relational database management system (RDBMS). It is known for its high performance, flexibility, ease of use, security, and speed. MySQL clients are programs that enable you to communicate your databases and manage them. 
 
@@ -161,3 +161,5 @@ Adminer has been around for a long time. More specifically, since 2007. It with 
 * It needs PHP to be installed on the machine
 * Requires the installation of a package manager like Homebrew
 * It needs a database driver installed
+
+> Become a SQL & database expert with this [SQL + Database course].(https://academy.zerotomastery.io/a/aff_fd1vc7n6/external?affcode=441520_zj_tadya)
