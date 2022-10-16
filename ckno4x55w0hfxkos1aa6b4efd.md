@@ -1,4 +1,4 @@
-## Learn The Fundamentals Of Vue JS With Vue 3
+# Learn The Fundamentals Of Vue JS With Vue 3
 
 The article aims to teach you the fundamentals of Vue using Vue 3. But, do not worry! If you learn these fundamental building blocks of Vue, you can create applications using any Vue version.
 
@@ -574,4 +574,4 @@ By now, you should be able to build simple Vue JS applications. All the code fro
 
 You can use Vue without installing it on your machine - [Vue JS CDN Link - How To Use Vue Without Installing It](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it).
 
-> Article published originally on [Asayer](https://blog.asayer.io).
+> Become a Vue.js developer and get hired with the [complete Vue mastery course](https://academy.zerotomastery.io/a/aff_095m8pfx/external?affcode=441520_zj_tadya).
