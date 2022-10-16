@@ -1,4 +1,4 @@
-## AWS CloudWatch vs AWS CloudTrail - What Is The Difference?
+# AWS CloudWatch vs AWS CloudTrail - What Is The Difference?
 
 It can be very easy to confuse the two services; especially when you are under pressure in the certification exams.
 
@@ -48,3 +48,5 @@ The two services, CloudWatch and CloudTrail, can be used together. After this ar
 * FreecodeCamp's AWS Certified Solutions Architect - Associate 2020
 * ACloudGuru AWS Certified Solutions Architect Associate
 * AWS Documentation
+
+> Learn AWS from scratch and become a cloud engineer with the [AWS Certified Cloud Practitioner course](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zj_tadya).
