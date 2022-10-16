@@ -168,3 +168,5 @@ With that being said, Vue UI is excellent, and I encourage you to try it out! It
 By this point, you should be comfortable with using the Vue CLI and UI to create Vue applications.
 
 In this article, you learn what the CLI and UI are and how to use them. This is just an introduction, but there is more to the Vue CLI. If you want to dive deep down into it, I recommend checking the [official Vue guide](https://cli.vuejs.org/guide/).
+
+> Become a Vue.js developer and get hired with the [complete Vue mastery course](https://academy.zerotomastery.io/a/aff_095m8pfx/external?affcode=441520_zj_tadya).
