@@ -1,4 +1,4 @@
-## AWS S3 - All You Need To Know About This Service
+# AWS S3 - All You Need To Know About This Service
 
 In this article, you are going to learn about a core AWS service, called Simple Storage Service. AWS Simple Storage Service, or S3, is a very versatile and useful service. It is also one of the oldest AWS services. That means it is one you should know, especially for the exam.
 
@@ -239,4 +239,4 @@ In conclusion, AWS S3 is a service you need to be comfortable with, especially i
 * Lifecycle Management
 * Data Consistency
 
-> If you enjoyed the article, consider sharing it so more people can benefit from it! Also, feel free to @ me on Twitter with your opinions.
+> Learn AWS from scratch and become a cloud engineer with the [AWS Certified Cloud Practitioner course](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zj_tadya).
