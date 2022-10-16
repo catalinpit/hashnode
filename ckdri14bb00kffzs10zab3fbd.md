@@ -68,3 +68,5 @@ If you followed all the steps from the article, your "budgets" page should look 
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/lkdmbl8jnekukqcwindm.png)
 Figure 6
+
+> Learn AWS from scratch and become a cloud engineer with the [AWS Certified Cloud Practitioner course](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zj_tadya).
