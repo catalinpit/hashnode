@@ -1,4 +1,4 @@
-## AWS Virtual Private Cloud (VPC) - Let's Learn About It
+# AWS Virtual Private Cloud (VPC) - Let's Learn About It
 
 AWS Virtual Private Cloud (VPC) is another essential AWS service. Also, it is something you need to know if you want to pursue the certifications. 
 
@@ -217,3 +217,4 @@ In this article you learnt about:
 
 This article has a lot of information, so make sure you take your time to understand it. In the future, I plan to create labs on YouTube for each AWS article to make it easier to understand and use the concepts. 
  
+> Learn AWS from scratch and become a cloud engineer with the [AWS Certified Cloud Practitioner course](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zj_tadya).
