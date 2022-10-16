@@ -56,3 +56,5 @@ If you open your application, you should see the following image.
 ![Vue attribute binding](https://cdn.hashnode.com/res/hashnode/image/upload/v1620283120554/swm3s1zWq.png)
 
 In a similar fashion, you can use attribute binding for the HTML a href attribute, for CSS classes and so on.
+
+> Become a Vue.js developer and get hired with the [complete Vue mastery course](https://academy.zerotomastery.io/a/aff_095m8pfx/external?affcode=441520_zj_tadya).
