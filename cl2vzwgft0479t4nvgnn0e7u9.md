@@ -162,4 +162,4 @@ Adminer has been around for a long time. More specifically, since 2007. It with 
 * Requires the installation of a package manager like Homebrew
 * It needs a database driver installed
 
-> Become a SQL & database expert with this [SQL + Database course].(https://academy.zerotomastery.io/a/aff_fd1vc7n6/external?affcode=441520_zj_tadya)
+> Become a SQL & database expert with this [SQL + Database course](https://academy.zerotomastery.io/a/aff_fd1vc7n6/external?affcode=441520_zj_tadya).
