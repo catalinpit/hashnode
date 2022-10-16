@@ -1,4 +1,4 @@
-## Amazon Relational Database Service - The Basics Of AWS RDS
+# Amazon Relational Database Service - The Basics Of AWS RDS
 
 Amazon Relational Database Service allows us to create, run, and manage relational databases in the cloud. With RDS, you can choose from six well-known relational database engines:
 1. Aurora (AWS's relational database)
@@ -99,3 +99,5 @@ In this article, you learnt about AWS RDS, which is another important AWS servic
 * There are two types of encryption: At rest and In transition/Flight
 * You can run multiple copies of your database with read replicas. It takes the load from the primary database, by directing reads to the replica database. 
 * Multi-AZ helps with disaster recovery. If you lose the main database, the secondary database becomes the primary one.
+
+> Learn AWS from scratch and become a cloud engineer with the [AWS Certified Cloud Practitioner course](https://academy.zerotomastery.io/a/aff_1f8vmvjz/external?affcode=441520_zj_tadya).
